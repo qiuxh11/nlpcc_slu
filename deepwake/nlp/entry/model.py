@@ -4,7 +4,6 @@ from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
 import thulac
 
-from deepwake.nlp.entry.constant import DOMAIN_REVERSE_DICT
 from deepwake.nlp.entry.util import get_absolute_path, CONFIG, load_train_corpus
 from deepwake.nlp.logger.log import Logger
 
@@ -25,7 +24,7 @@ class FeatureAddition(object):
         -------
 
         """
-        mod = __import__('kami.nlp.entry.feature', fromlist=['feature'])
+        mod = __import__('deepwake.nlp.entry.feature', fromlist=['feature'])
         for feature_name in feature_names:
             class_name = getattr(mod, feature_name)
             feature = class_name()
@@ -46,17 +45,17 @@ class FeatureAddition(object):
         return self._info
 
 
-class TopicModel:
+class Model:
 
     def __init__(self):
-        self._topic_model = svm.SVC(C=0.8, kernel='linear')
+        self._model = svm.SVC(C=0.8, kernel='linear')
         self.feature_addition = None
         self.train_path = None
         self.corpus = None
         self.report = None
 
     def set_model(self, model):
-        self._topic_model = model
+        self._model = model
 
     def set_feature_addition(self, feature_addition):
         self.feature_addition = feature_addition
@@ -109,7 +108,7 @@ class TopicModel:
         x = x[:, :self.feature_addition.length()]
         x_train, x_test, y_train, y_test = train_test_split(x, y, random_state=1, train_size=train_size)
 
-        self._topic_model.fit(x_train, y_train.ravel())
+        self._model.fit(x_train, y_train.ravel())
 
         y_predict = self.predict(x_test)
         y_true = (y_test.reshape(y_test.shape[1], y_test.shape[0]))[0]
@@ -125,30 +124,13 @@ class TopicModel:
                                     labels=labels, target_names=names)
 
         print(self.report)
-        return self._topic_model.coef_
+        return self._model.coef_
 
     def predict(self, X):
-        return self._topic_model.predict(X)
+        return self._model.predict(X)
 
     def feature_dim(self):
         return self.feature_addition.length()
-
-
-DOMAIN_MODEL = TopicModel()
-DOMAIN_FEATURE_ADDITION = FeatureAddition()
-DOMAIN_FEATURE_ADDITION.config(CONFIG['domain_feature'])
-DOMAIN_MODEL.set_feature_addition(DOMAIN_FEATURE_ADDITION)
-DOMAIN_MODEL.load_train_corpus(CONFIG['domain_train_corpus'])
-DOMAIN_MODEL.create_train_data(CONFIG['domain_train_data'], DOMAIN_REVERSE_DICT)
-DOMAIN_MODEL.train_and_test(DOMAIN_REVERSE_DICT)
-
-# INTENT_MODEL = TopicModel()
-# INTENT_FEATURE_ADDITION = FeatureAddition()
-# INTENT_FEATURE_ADDITION.config(CONFIG['intent_feature'])
-# INTENT_MODEL.set_feature_addition(INTENT_FEATURE_ADDITION)
-# INTENT_MODEL.load_train_corpus(CONFIG['intent_train_corpus'])
-# INTENT_MODEL.create_train_data(CONFIG['intent_train_data'])
-# INTENT_MODEL.train_and_test()
 
 
 def get_domain(sentence, response=None, register=None):
@@ -167,12 +149,7 @@ def get_domain(sentence, response=None, register=None):
          3: "train",
          4: "flight"}
     """
-    text = SEG.cut(sentence)  # 进行一句话分词
-    X = DOMAIN_MODEL.generate(text)
-    vector = np.ndarray(shape=(1, DOMAIN_MODEL.feature_dim()))
-    for idx, value in enumerate(X):
-        vector[0, idx] = value
-    return DOMAIN_MODEL.predict(vector)
+    pass
 
 
 def get_intent(sentence, response, register):
@@ -205,12 +182,4 @@ def load_model(path):
 
     """
     pass
-
-
-if __name__ == '__main__':
-    sentence = '预定今天下午的机票'
-    res = get_domain(sentence)
-    print(res)
-    logger = Logger(__name__)
-    logger.info("hello")
 

@@ -27,7 +27,7 @@ DICT_FEATURE_INDEX = {}
 
 def load_dict():
     index = 0
-    for name, file in CONFIG['domain_feature_dict'].items():
+    for name, file in CONFIG['dict'].items():
         path = get_absolute_path(file)
         DICT_FEATURE_INDEX[name] = index
         index += 1
@@ -50,52 +50,5 @@ def load_train_corpus(path_dict):
               name2: corpus2,
               ...: ...}
     """
-    corpus = {}
-    for name, path in CONFIG['domain_train_corpus'].items():
-        temp = set()
-        with open(get_absolute_path(path), 'r') as reader:
-            for line in reader:
-                temp.add(line.strip())
-        corpus[name] = temp
-    return corpus
-
-
-def append_train_corpus(path):
-    """ 追加标注的训练语料.
-
-    Parameters
-    ----------
-    path
-
-    Returns
-    -------
-
-    """
-    corpus = load_train_corpus()
-    # path = get_absolute_path(path)
-    with open(path, 'r') as reader:
-        for line in reader:
-            sample = line.split("@@")
-            sample = [sam.strip() for sam in sample]
-            if len(sample) == 2 and  corpus.get(sample[1], -1) != -1:
-                corpus[sample[1]].add(sample[0])
-
-    for name, path in CONFIG['train_corpus'].items():
-        path_name = get_absolute_path(path)
-        if os.path.exists(path_name):
-            os.remove(path_name)
-        with open(path_name, 'a') as appender:
-            for sample in corpus[name]:
-                appender.write(sample + '\n')
-
-
-
-
-
-
-
-
-
-
-
+    pass
 
