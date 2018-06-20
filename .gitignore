@@ -1,0 +1,9 @@
+*.egg-info
+.vscode
+.eggs
+.cache
+__pycache__
+test-results
+docs/_build
+.DS_Store
+.idea
