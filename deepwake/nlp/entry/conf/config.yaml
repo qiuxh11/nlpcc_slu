@@ -1,0 +1,57 @@
+# 域(火车、飞机、酒店、交通等)分类的原始训练语料
+domain_train_corpus:
+  flight: ./corpus/flight
+  hotel: ./corpus/hotel
+  traffic: ./corpus/traffic
+  chat: ./corpus/chat
+  train: ./corpus/train
+
+# 域分类的一些特征词典文件
+domain_feature_dict:
+  city: ./dict/city.dict
+  verb: ./dict/verb.dict
+  hotel: ./dict/hotel_suffix.dict
+  hotel_brand: ./dict/hotel_brand.dict
+  cabin: ./dict/cabin.dict
+  airport: ./dict/airport.dict
+  price_adj: ./dict/price_adj.dict
+  province: ./dict/province.dict
+  flight: ./dict/flight.dict
+  train: ./dict/train.dict
+
+# 域分类的特征文件路径
+domain_train_data: ./corpus/domain_train_data.txt
+
+# 域分类的特征名称配置
+domain_feature:
+ - NSFeature
+ - DictFeature
+
+# 意图识别的原始训练语料
+intent_train_corpus:
+  flight: ./corpus/flight
+  hotel: ./corpus/hotel
+  traffic: ./corpus/traffic
+  chat: ./corpus/chat
+  train: ./corpus/train
+
+# 意图识别的特征词典文件
+intent_feature_dict:
+  city: ./dict/city.dict
+  verb: ./dict/verb.dict
+  hotel: ./dict/hotel_suffix.dict
+  hotel_brand: ./dict/hotel_brand.dict
+  cabin: ./dict/cabin.dict
+  airport: ./dict/airport.dict
+  price_adj: ./dict/price_adj.dict
+  province: ./dict/province.dict
+  flight: ./dict/flight.dict
+  train: ./dict/train.dict
+
+# 意图识别特征文件路径
+intent_train_data: ./corpus/intent_train_data.txt
+
+# 意图识别的特征名称配置
+intent_feature:
+ - NSFeature
+ - DictFeature
