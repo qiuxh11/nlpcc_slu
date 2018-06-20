@@ -78,7 +78,8 @@ class DictFeature(Feature):
         return self._length
 
     def __str__(self):
-        sorted_item = sorted(DICT_FEATURE_INDEX.items(), key=lambda d:d[1], reverse=False)
+        sorted_item = sorted(DICT_FEATURE_INDEX.items(),
+                             key=lambda d:d[1], reverse=False)
         res = ''
         for item in sorted_item:
             res = res + item[0] + TAB
