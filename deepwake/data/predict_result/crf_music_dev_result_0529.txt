@@ -1,0 +1,6513 @@
+恋曲	v	play.song-B	play.song-B
+一九九	m	play.song-I	play.song-I
+零	m	play.song-I	play.song-I
+
+恋曲	v	play.song-B	play.song-B
+一九八	m	play.song-I	play.song-I
+零	m	play.song-I	play.song-I
+
+恋曲	v	play.song-B	play.song-B
+一九八	m	play.song-I	play.song-I
+零	m	play.song-I	play.song-I
+
+点	m	play.O	play.O
+曲	q	play.O	play.O
+一九八	m	play.song-B	play.song-B
+零	m	play.song-I	play.song-I
+
+恋曲	v	play.song-B	play.song-B
+一九八	m	play.song-I	play.song-I
+零	m	play.song-I	play.song-I
+
+罗大佑	nz	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+
+爱情	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+骗子	n	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+问	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+小小的	z	play.song-B	play.song-B
+水仙花	nr	play.song-I	play.song-I
+
+您好	l	play.O	play.O
+水城县	ns	play.O	play.O
+连连	d	play.O	play.O
+演唱	v	play.O	play.O
+的	uj	play.O	play.O
+我	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+愿	v	play.song-I	play.song-I
+离开	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+不是	c	play.O	play.O
+我	r	play.O	play.O
+不	d	play.O	play.O
+愿意	v	play.O	play.O
+歌曲	n	play.O	play.O
+我	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+愿	v	play.song-I	play.song-I
+离开	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+小	a	play.singer-B	play.song-B
+s	eng	play.singer-I	play.song-I
+
+叮当	o	play.O	play.O
+我	r	play.O	play.O
+要	v	play.O	play.O
+听歌	v	play.O	play.O
+
+歌曲	n	play.O	play.O
+烟花	n	play.song-B	play.song-B
+三月	m	play.song-I	play.song-I
+
+烟花	n	play.song-B	play.song-B
+三月	m	play.song-I	play.song-I
+歌曲	n	play.O	play.O
+
+胡歌	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+一场	m	play.song-B	play.song-B
+恋爱	v	play.song-I	play.song-I
+
+一场	m	play.song-B	play.song-B
+恋爱	v	play.song-I	play.song-I
+
+beyond	eng	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+
+beyond	eng	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+国歌	n	play.song-B	play.song-B
+
+摩托	nrt	play.song-B	play.song-B
+窑	n	play.song-I	play.song-I
+
+播放歌曲	n	play.O	play.O
+摩托	nrt	play.song-B	play.song-B
+窑	n	play.song-I	play.song-I
+
+播放歌曲	n	play.O	play.O
+模特	a	play.song-B	play.song-B
+摇	v	play.song-I	play.song-I
+
+播放歌曲	n	play.O	play.O
+摩托	nrt	play.song-B	play.song-B
+窑	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一路	m	play.song-B	play.song-B
+同行	j	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一曲	m	play.O	play.O
+海阔天空	i	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+差	a	play.song-B	play.song-B
+一步	m	play.song-I	play.song-I
+
+点	m	play.O	play.O
+一首	m	play.O	play.O
+红豆	n	play.song-B	play.song-B
+红	a	play.song-I	play.song-I
+
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+切换	v	next.O	next.O
+到	v	next.O	next.O
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+音乐	n	play.O	play.O
+
+来	v	play.O	play.O
+个	q	play.O	play.O
+牵强	v	play.O	play.O
+张廉美	nr	play.O	play.O
+不	d	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+大	a	play.song-B	play.song-B
+神殿	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+追光	v	play.song-B	play.song-B
+者	k	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+随	v	play.song-B	play.song-B
+他	r	play.song-I	play.song-I
+吧	y	play.song-I	play.O
+
+播放歌曲	n	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+播放歌曲	n	play.O	play.O
+
+播放歌曲	n	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+浅浅	a	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+浅浅	a	play.song-B	play.song-B
+
+仙剑奇	i	play.O	play.O
+侠	nr	play.O	play.O
+三	m	play.O	play.O
+主题曲	n	play.O	play.O
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+首歌	n	play.O	play.O
+吧	y	play.O	play.O
+
+大王	nrt	play.song-B	play.song-B
+
+来	v	play.O	play.O
+民歌	n	play.style-B	play.O
+吗	y	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+一	m	play.song-B	play.song-B
+人	n	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+饮酒	n	play.song-I	play.song-I
+醉	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+恭喜发财	l	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+恭喜发财	l	play.song-B	play.song-B
+
+听	v	play.O	play.O
+后	f	play.singer-B	play.singer-B
+街	n	play.singer-I	play.singer-I
+男孩	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+听	v	play.O	play.O
+后	f	play.singer-B	play.singer-B
+街	n	play.singer-I	play.singer-I
+男孩	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+听	v	play.O	play.O
+周杰伦	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+孟庭苇	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+蔡依林	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+许茹芸	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+点	m	play.O	play.O
+一首	m	play.O	play.O
+拥抱	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+离去	v	play.song-I	play.song-I
+
+拥抱	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+离去	v	play.song-I	play.song-I
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+一首	m	play.O	play.O
+霸王别姬	l	play.song-B	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+把酒	v	play.song-B	play.song-B
+倒	v	play.song-I	play.song-I
+满	a	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+
+爱	v	play.song-B	play.song-B
+过	ug	play.song-I	play.song-I
+今生	t	play.song-I	play.song-I
+就	d	play.song-I	play.song-I
+没有	v	play.song-I	play.song-I
+遗憾	a	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+爱	v	play.song-B	play.song-B
+我	r	play.song-I	play.song-I
+胜过	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+
+搜索	v	play.O	play.O
+金志文	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+歌曲	n	next.O	next.O
+播放	v	next.O	next.O
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+放	v	play.O	play.O
+首歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+一曲	m	play.O	play.O
+今天	t	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+一曲	m	play.O	play.O
+冰雨	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+一曲	m	play.O	play.O
+梅艳芳	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+一生	m	play.song-B	play.song-B
+爱	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+千百回	m	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+假如	c	play.song-B	play.song-B
+战争	n	play.song-I	play.song-I
+今天	t	play.song-I	play.song-I
+爆发	v	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+当	p	play.song-B	play.song-B
+那	r	play.song-I	play.song-I
+一天	m	play.song-I	play.song-I
+来临	v	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+军中	s	play.song-B	play.song-B
+绿花	n	play.song-I	play.song-I
+
+甘心	n	play.song-B	play.song-B
+替代	n	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+甘心情愿	i	play.song-B	play.song-B
+郭峰	nr	play.singer-B	play.singer-B
+唱	v	play.O	play.O
+的	uj	play.O	play.O
+
+朋友	n	play.song-B	play.song-B
+别哭	v	play.song-I	play.song-I
+
+打开	v	play.O	play.O
+音乐	n	play.O	play.O
+
+成都	ns	play.song-B	play.song-B
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+成都	ns	play.song-B	play.song-B
+
+取消	v	pause.O	pause.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+唐朝	t	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+梦回	v	play.song-B	play.song-B
+唐朝	t	play.song-I	play.song-I
+
+童安格	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+借	v	play.song-B	play.song-B
+我	r	play.song-I	play.song-I
+一点	m	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+
+放	v	play.O	play.O
+周华健	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+童安格	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+借	v	play.song-B	play.song-B
+我	r	play.song-I	play.song-I
+一点	m	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+
+唱	v	play.O	play.O
+一个	m	play.O	play.O
+主耶稣	n	play.song-B	play.O
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+唱	v	play.O	play.O
+一下	m	play.O	play.O
+漂洋过海	i	play.song-B	play.song-B
+来看	u	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一个	m	play.O	play.O
+周艳泓	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+十字架	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+爱	n	play.song-I	play.song-I
+
+成都	ns	play.song-B	play.song-B
+
+音乐吧	n	play.O	play.O
+
+播放	v	play.O	play.O
+成都	ns	play.song-B	play.song-B
+
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+齐豫	a	play.singer-B	play.singer-B
+
+对	p	play.song-B	play.song-B
+不对	d	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放歌曲	n	play.O	play.O
+你家	r	play.song-B	play.song-B
+在	p	play.song-I	play.song-I
+哪里	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+小苹果	nr	play.song-B	play.song-B
+
+放	v	play.O	play.O
+小苹果	nr	play.song-B	play.song-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+小苹果	nr	play.song-B	play.song-B
+
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+红歌	n	play.theme-B	play.theme-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+邓丽君	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+说散	v	play.song-B	play.song-B
+就	d	play.song-I	play.song-I
+散	v	play.song-I	play.song-I
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+当	p	play.song-B	play.song-B
+爱	n	play.song-I	play.song-I
+离别	v	play.song-I	play.song-I
+时	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+我	r	play.song-B	play.song-B
+想	v	play.song-I	play.song-I
+大声	m	play.song-I	play.song-I
+告诉	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+我	r	play.song-B	play.song-B
+想	v	play.song-I	play.song-I
+大声	m	play.song-I	play.song-I
+告诉	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+劲	n	play.song-B	play.song-B
+爆	v	play.song-I	play.song-I
+的士高	n	play.song-I	play.song-I
+
+搜索	v	play.O	play.O
+歌曲	n	play.O	play.O
+
+拔萝卜	n	play.song-B	play.song-B
+
+五月天	t	play.singer-B	play.singer-B
+
+沧海	ns	play.song-B	play.song-B
+一声	m	play.song-I	play.song-I
+笑	v	play.song-I	play.song-I
+
+题面	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+前任	n	play.O	play.O
+三	m	play.O	play.O
+插曲	n	play.O	play.O
+体面	n	play.song-B	play.song-B
+
+歌曲	n	play.O	play.O
+体面	n	play.song-B	play.song-B
+选项	n	play.O	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+羞羞	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+铁拳	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+神奇	a	play.song-B	play.song-B
+搭讪	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一	m	play.song-B	play.song-B
+人	n	play.song-I	play.song-I
+饮酒	n	play.song-I	play.song-I
+醉	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+大鱼	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+梦醒	v	play.song-B	play.song-B
+时分	n	play.song-I	play.song-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+民歌	n	play.style-B	play.O
+吗	y	play.O	play.O
+
+首	m	play.O	play.O
+崔恕	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+父子	n	play.song-B	play.song-B
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+崔恕	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+父子	n	play.song-B	play.song-B
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+爱	v	play.song-B	play.song-B
+江山	ns	play.song-I	play.song-I
+更	d	play.song-I	play.song-I
+爱美	ns	play.song-I	play.song-I
+人	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+爱	v	play.song-B	play.song-B
+得	ud	play.song-I	play.song-I
+太	d	play.song-I	play.song-I
+多	m	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+合久必分	l	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+合久	a	play.song-B	play.song-B
+必婚	v	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+合久	a	play.song-B	play.song-B
+必婚	v	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+李玉刚	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+刚好	d	play.song-B	play.song-B
+遇见	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+听	v	play.O	play.O
+最	d	play.song-B	play.song-B
+炫	v	play.song-I	play.song-I
+民族	n	play.song-I	play.song-I
+风	n	play.song-I	play.song-I
+
+爸爸	n	play.song-B	play.song-B
+去	v	play.song-I	play.song-I
+哪儿	r	play.song-I	play.song-I
+
+歌曲	n	play.O	play.O
+三年	m	play.song-B	play.song-B
+
+播放歌曲	n	play.O	play.O
+
+歌曲	n	play.O	play.O
+曹操	nr	play.song-B	play.song-B
+争霸	v	play.song-I	play.song-I
+
+歌曲	n	play.O	play.O
+场上	s	play.O	play.song-B
+的	uj	play.O	play.song-I
+
+歌曲	n	play.O	play.O
+场上	s	play.song-B	play.song-B
+争霸	v	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+说	v	play.song-B	play.song-B
+分手	v	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+苏	j	play.singer-B	play.song-B
+仨	m	play.singer-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+说散	v	play.song-B	play.song-B
+就	d	play.song-I	play.song-I
+散	v	play.song-I	play.song-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+任贤齐	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+任贤齐	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+角落	n	play.O	play.O
+你好	l	play.O	play.O
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+凤凰	nr	play.singer-B	play.singer-B
+传奇	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+张国荣	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+夜半	t	play.song-B	play.song-B
+歌声	n	play.song-I	play.song-I
+
+盛夏	nr	play.song-B	play.singer-B
+
+播歌	v	play.O	play.O
+
+播放	v	play.O	play.O
+最美	a	play.song-B	play.song-B
+情侣	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+大兵	n	play.song-B	play.singer-B
+的	uj	play.song-I	play.O
+小	n	play.song-I	play.O
+屋里	s	play.song-I	play.O
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+谢	v	play.singer-B	play.singer-B
+春花	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+张芸京	nrfg	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+偏爱	v	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+许嵩	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+玫瑰花	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+葬礼	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+周杰伦	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+烟花	n	play.song-B	play.song-B
+易冷	nr	play.song-I	play.song-I
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+the	eng	play.song-B	play.song-B
+
+well	eng	play.song-I	play.song-I
+
+in	eng	play.song-I	play.song-I
+
+the	eng	play.song-I	play.song-B
+
+best	eng	play.song-I	play.song-I
+
+girls	eng	play.song-I	play.song-I
+
+run	eng	play.song-I	play.song-I
+
+and	eng	play.song-I	play.song-I
+
+run	eng	play.song-I	play.song-I
+
+暂时	d	pause.O	play.O
+不	d	pause.O	play.O
+放	v	pause.O	play.O
+歌曲	n	pause.O	play.O
+
+暂停	d	pause.O	pause.O
+播放歌曲	n	pause.O	pause.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+把酒	v	play.song-B	play.song-B
+倒	v	play.song-I	play.song-I
+满	a	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+把酒	v	play.song-B	play.song-B
+倒	v	play.song-I	play.song-I
+满	a	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+山丹丹花	nz	play.song-B	play.song-B
+开	v	play.song-I	play.song-I
+红艳艳	nr	play.song-I	play.song-I
+
+多亮	a	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+点	m	play.O	play.O
+一首	m	play.O	play.O
+钟盛忠	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+点	m	play.O	play.O
+一首	m	play.O	play.O
+忠诚	a	play.song-B	play.song-B
+之	u	play.song-I	play.song-I
+歌	n	play.song-I	play.song-I
+
+听	v	play.O	play.O
+降央卓玛	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+听	v	play.O	play.O
+费玉清	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+听	v	play.O	play.O
+费玉清	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+再度	d	play.song-B	play.song-B
+重	a	play.song-I	play.song-I
+相逢	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+孟婆	nr	play.song-B	play.singer-B
+的	uj	play.song-I	play.O
+碗	q	play.song-I	play.song-B
+
+播放	v	play.O	play.O
+鼓楼	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+忘情水	i	play.song-B	play.song-B
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+小苹果	nr	play.song-B	play.song-B
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+一首	m	play.O	play.O
+红尘	n	play.song-B	play.song-B
+情歌	n	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+一首	m	play.O	play.O
+男人	n	play.song-B	play.song-B
+就是	d	play.song-I	play.song-I
+累	a	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+点	m	play.O	play.O
+首	m	play.O	play.O
+香水	ns	play.song-B	play.song-B
+有毒	v	play.song-I	play.song-I
+
+放	v	play.O	play.O
+邓紫棋	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+放	v	play.O	play.O
+邓紫棋	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+韩红	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+天路	n	play.song-B	play.song-B
+
+继续	v	play.O	play.O
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+像	v	play.song-B	play.song-B
+风	n	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+风	n	play.song-B	play.song-B
+一样	r	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+人	n	play.song-I	play.song-I
+
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+等	u	play.song-B	play.song-B
+一分钟	m	play.song-I	play.song-I
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+把酒	v	play.song-B	play.song-B
+倒	v	play.song-I	play.song-I
+满	a	play.song-I	play.song-I
+
+我	r	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+快乐	a	play.song-I	play.song-I
+就是	d	play.song-I	play.song-I
+想	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+陈雅森	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+我	r	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+快乐	a	play.song-I	play.song-I
+就是	d	play.song-I	play.song-I
+想	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+今夜	t	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+又	d	play.song-I	play.song-I
+在	p	play.song-I	play.song-I
+和	c	play.song-I	play.song-I
+谁	r	play.song-I	play.song-I
+约会	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+今夜	t	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+又	d	play.song-I	play.song-I
+在	p	play.song-I	play.song-I
+和	c	play.song-I	play.song-I
+谁	r	play.song-I	play.song-I
+约会	n	play.song-I	play.song-I
+
+播放歌曲	n	play.O	play.O
+感染	v	play.song-B	play.song-B
+在	p	play.song-I	play.song-I
+何方	r	play.song-I	play.song-I
+
+fay	eng	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+林依轮	nr	play.singer-B	play.singer-B
+
+那	r	play.O	play.song-B
+一	m	play.O	play.song-I
+歌手	n	play.O	play.song-I
+那英	nr	play.singer-B	play.song-I
+
+歌手	n	play.O	play.song-B
+那英	nr	play.singer-B	play.song-I
+
+龙	n	play.singer-B	play.singer-B
+梅子	nr	play.singer-I	play.singer-I
+歌首	n	play.O	play.O
+农民	n	play.song-B	play.song-B
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+一首	m	play.O	play.O
+感恩	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+心	n	play.song-I	play.song-I
+
+想	v	play.O	play.O
+点播	v	play.O	play.O
+陈瑞	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+藕断丝连	i	play.song-B	play.song-B
+
+请	v	play.O	play.O
+点播	v	play.O	play.O
+一下	m	play.O	play.O
+那个	r	play.O	play.O
+陈瑞	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+藕断丝连	i	play.song-B	play.song-B
+
+搜索	v	play.O	play.O
+殷悦	nr	play.O	play.song-B
+谭咏	nrfg	play.singer-B	play.song-I
+麟	ng	play.singer-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+谭	vn	play.singer-B	play.singer-B
+咏麟	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+半	m	play.song-B	play.song-B
+壶	q	play.song-I	play.song-I
+纱	n	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+今生	t	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+唯一	b	play.song-I	play.song-I
+
+取消	v	pause.O	pause.O
+
+你好	l	play.O	play.O
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+张芸京	nrfg	play.singer-B	play.song-B
+
+播放	v	play.O	play.O
+在	p	play.song-B	play.song-B
+人间	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+我	r	play.song-B	play.song-B
+是	v	play.song-I	play.song-I
+愤怒	v	play.song-I	play.song-I
+
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+播	v	play.O	play.O
+一下	m	play.O	play.O
+
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+广州	ns	play.song-B	play.song-B
+爱情故事	i	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+广东	ns	play.singer-B	play.song-B
+雨神	n	play.singer-I	play.song-I
+
+播放	v	play.O	play.O
+
+播放	v	play.O	play.O
+广东	ns	play.song-B	play.song-B
+爱情故事	i	play.song-I	play.song-I
+那	r	play.O	play.O
+女	b	play.O	play.O
+的	uj	play.O	play.O
+那个	r	play.O	play.O
+版	n	play.O	play.O
+的	uj	play.O	play.O
+
+播放	v	play.O	play.O
+广东	ns	play.song-B	play.song-B
+爱情故事	i	play.song-I	play.song-I
+女神	n	play.O	play.O
+的	uj	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+夜夜	t	play.song-B	play.song-B
+夜夜	t	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+成都	ns	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+首	m	play.O	play.O
+紫襟	n	play.O	play.O
+播放歌曲	n	play.O	play.O
+绒花	n	play.song-B	play.song-B
+
+请	v	play.O	play.O
+播放歌曲	n	play.O	play.O
+绒花	n	play.song-B	play.song-B
+
+赵倩	nr	play.singer-B	play.singer-B
+
+播	v	play.O	play.O
+一下	m	play.O	play.O
+大	a	play.song-B	play.song-B
+画家	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+安	v	play.singer-B	play.singer-B
+东阳	ns	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+李白	nr	play.song-B	play.song-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+丑八怪	i	play.song-B	play.song-B
+
+后	f	play.singer-B	play.song-B
+街	n	play.singer-I	play.song-I
+男孩	n	play.singer-I	play.song-I
+
+播放	v	play.O	play.O
+后	f	play.singer-B	play.singer-B
+街	n	play.singer-I	play.singer-I
+男孩	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+两只	m	play.song-B	play.song-B
+蝴蝶	n	play.song-I	play.song-I
+
+轻音乐	n	play.style-B	play.style-B
+
+张杰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+天下	s	play.song-B	play.song-B
+
+迪克牛仔	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+风飞沙	n	play.song-B	play.song-B
+歌曲	n	play.O	play.O
+
+播放歌曲	n	play.O	play.O
+朋友	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+酒	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+汪峰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+儿歌	n	play.age-B	play.age-B
+吗	y	play.O	play.O
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+张学友	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+成都	ns	play.song-B	play.song-B
+
+成都	ns	play.song-B	play.song-B
+
+金志文	nr	play.singer-B	play.singer-B
+唱	v	play.O	play.O
+的	uj	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+金志文	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+
+黄家驹	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+赵雷	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+成都	ns	play.song-B	play.song-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+请播	v	play.O	play.O
+歌曲	n	play.O	play.O
+鸿雁	nr	play.song-B	play.song-B
+
+再	d	play.song-B	play.song-B
+出发	v	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+贝瓦	nr	play.singer-B	play.singer-B
+儿歌	n	play.singer-I	play.O
+请	v	play.O	play.O
+播放	v	play.O	play.O
+强军	n	play.O	play.song-B
+战歌	n	play.O	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+儿歌	n	play.age-B	play.age-B
+小	a	play.song-B	play.song-B
+海军	n	play.song-I	play.song-I
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+成都	ns	play.song-B	play.song-B
+
+歌曲	n	play.O	play.O
+
+歌曲	n	play.O	play.O
+成都	ns	play.song-B	play.song-B
+
+又	d	play.song-B	play.song-B
+见	v	play.song-I	play.song-I
+山里红	nr	play.song-I	play.song-I
+
+阿布	nr	play.singer-B	play.singer-B
+
+放首	v	play.O	play.O
+周杰伦	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+爱	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+挽歌	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+陈子琪	nr	play.singer-B	play.singer-B
+和	c	play.O	play.O
+张提	nr	play.singer-B	play.singer-B
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+首歌	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.song-B	play.O
+
+播放	v	play.O	play.O
+李白	nr	play.song-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+取消	v	pause.O	pause.O
+
+漂洋过海	i	play.song-B	play.song-B
+来看	u	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+漂洋过海	i	play.song-B	play.song-B
+来看	u	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+舞曲	n	play.style-B	play.style-B
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放歌	v	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+到	v	play.O	play.O
+北京	ns	play.O	play.O
+拜拜	ns	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+
+你	r	play.O	play.O
+的	uj	play.O	play.O
+拜拜	ns	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+
+老子	n	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+来	v	play.O	play.O
+个	q	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+说散	v	play.song-B	play.song-B
+就	d	play.song-I	play.song-I
+散	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+卓玛	nr	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+亚东	ns	play.singer-B	play.song-B
+的	uj	play.O	play.song-I
+卓玛	nr	play.song-B	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+苏祖英	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+宋祖英	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+拥抱	v	play.song-B	play.song-B
+离去	v	play.song-I	play.song-I
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+拥抱着	l	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+离去	v	play.song-I	play.song-I
+
+下	f	next.O	next.O
+一首歌	m	next.O	next.O
+
+下	f	next.O	next.O
+一首歌	m	next.O	next.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+遥远	a	play.song-B	play.singer-B
+的	uj	play.song-I	play.O
+歌	n	play.song-I	play.O
+
+播放	v	play.O	play.O
+茅野	n	play.singer-B	play.singer-B
+爱衣	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放歌曲	n	play.O	play.O
+像	v	play.song-B	play.song-B
+我	r	play.song-I	play.song-I
+这样	r	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+人	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+像	v	play.song-B	play.song-B
+我	r	play.song-I	play.song-I
+这样	r	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+人	n	play.song-I	play.song-I
+
+我	r	play.song-B	play.song-B
+只在乎	i	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+歌曲	n	play.O	play.O
+
+歌曲	n	play.O	play.O
+踩	v	play.song-B	play.song-B
+踩	v	play.song-I	play.song-I
+踩	v	play.song-I	play.song-I
+
+我	r	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+快乐	a	play.song-I	play.song-I
+就是	d	play.song-I	play.song-I
+想	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+歌曲	n	play.O	play.O
+
+阿果	n	play.singer-B	play.singer-B
+
+播放	v	play.O	play.O
+过火	n	play.song-B	play.song-B
+
+萧正楠	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+hello	eng	play.song-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+刀郎	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+串烧	v	play.theme-B	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+串烧	v	play.theme-B	play.O
+类型	n	play.O	play.O
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+串烧	v	play.theme-B	play.O
+歌曲	n	play.O	play.O
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+歌曲	n	play.O	play.O
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+民间	n	play.song-B	play.song-B
+小调	n	play.song-I	play.song-I
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+民间	n	play.song-B	play.song-B
+小调	n	play.song-I	play.song-I
+
+或	c	play.O	play.O
+音乐	n	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+苦水	n	play.song-B	play.song-B
+情歌	n	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+郑智化	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+爱情	n	play.song-B	play.song-B
+码头	n	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+动心	n	play.song-B	play.song-B
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+欢子	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+朋友	n	play.song-B	play.song-B
+歌	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+lovage	eng	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+新	n	play.song-B	play.song-B
+鸳鸯蝴蝶	nr	play.song-I	play.song-I
+梦	n	play.song-I	play.song-I
+
+新	a	play.song-B	play.song-B
+鸳鸯蝴蝶	nr	play.song-I	play.song-I
+梦	n	play.song-I	play.song-I
+
+黄玫瑰	nr	play.song-B	play.singer-B
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+山里红	nr	play.song-B	play.song-B
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+又	d	play.song-B	play.song-B
+见	v	play.song-I	play.song-I
+山里红	nr	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+又	d	play.song-B	play.song-B
+见	v	play.song-I	play.song-I
+山里红	nr	play.song-I	play.song-I
+
+九百九十九	m	play.song-B	play.song-B
+朵玫瑰	nr	play.song-I	play.song-I
+
+在	p	play.song-B	play.song-B
+心里	s	play.song-I	play.song-I
+从此	c	play.song-I	play.song-I
+有个	r	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+高进	a	play.singer-B	play.song-B
+的	uj	play.O	play.song-I
+我	r	play.song-B	play.song-I
+的	uj	play.song-I	play.song-I
+兄弟	n	play.song-I	play.song-I
+
+说	v	play.song-B	play.song-B
+
+唱	v	play.O	play.O
+一个	m	play.O	play.O
+墨墨	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+十分	m	play.song-B	play.song-B
+
+呵呵	v	play.song-B	play.O
+呵	y	play.song-I	play.O
+
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+冰雨	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+冰雨	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+忘情水	i	play.song-B	play.song-B
+
+任静	nr	play.singer-B	play.singer-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+北京	ns	play.song-B	play.song-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+默	z	play.song-B	play.song-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+默	z	play.song-B	play.song-B
+
+切歌	v	next.O	next.O
+
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+善良	a	play.song-B	play.song-B
+曲	q	play.O	play.song-I
+
+成名曲	nr	play.theme-B	play.singer-B
+
+播放	v	play.O	play.O
+成名曲	nr	play.theme-B	play.singer-B
+
+播放	v	play.O	play.O
+一	m	play.O	play.song-B
+人	n	play.O	play.song-I
+一首	m	play.O	play.song-I
+成名曲	nr	play.O	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+来	v	play.O	play.O
+一首	m	play.O	play.O
+浏阳河	ns	play.song-B	play.song-B
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+一首	m	play.O	play.O
+九月	t	play.O	play.song-B
+的	uj	play.O	play.song-I
+艳阳天	n	play.O	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+一首	m	play.O	play.O
+你	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+来	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+不	d	play.song-I	play.song-I
+老	a	play.song-I	play.song-I
+
+王巧	nr	play.singer-B	play.singer-B
+
+只	d	play.song-B	play.song-B
+愿	v	play.song-I	play.song-I
+你好	l	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+亲子装	n	play.O	play.O
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+崔	nr	play.singer-B	play.O
+子格	n	play.singer-I	play.O
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+崔	nr	play.singer-B	play.O
+子格	n	play.singer-I	play.O
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+听	v	play.O	play.O
+2002	m	play.song-B	play.song-B
+年	m	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+第一场	m	play.song-I	play.song-I
+雪	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+首	m	play.O	play.O
+
+取消	v	pause.O	pause.O
+
+播放	v	play.O	play.O
+帕尔哈	nrt	play.singer-B	play.singer-B
+提	v	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+樊	nr	play.singer-B	play.singer-B
+少华	nz	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+吻别	v	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+陈奕迅	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+爱火	n	play.song-B	play.song-B
+
+王	nr	play.singer-B	play.singer-B
+韵婵	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+没有	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+陪伴	n	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+真的	d	play.song-I	play.song-I
+好孤单	z	play.song-I	play.song-I
+
+没有	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+陪伴	n	play.song-I	play.song-I
+真的	d	play.song-I	play.song-I
+好孤单	z	play.song-I	play.song-I
+
+把	p	play.O	play.O
+这个	r	play.O	play.O
+来	v	play.O	play.O
+乌兰	ns	play.O	play.O
+的	uj	play.O	play.O
+那	r	play.O	play.O
+首	m	play.O	play.O
+没有	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+陪伴	n	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+真的	d	play.song-I	play.song-I
+好孤单	z	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+章丽	nr	play.singer-B	play.singer-B
+
+放	v	play.O	play.O
+旮旯	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+当	p	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+旮旯	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+街舞	n	play.song-B	play.song-B
+少年	m	play.song-I	play.song-I
+他	r	play.O	play.song-I
+说	v	play.O	play.song-I
+你	r	play.O	play.song-I
+能变	v	play.O	play.song-I
+
+把	p	pause.O	pause.O
+音乐	n	pause.O	pause.O
+关闭	v	pause.O	pause.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+汪峰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+我	r	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+祖国	n	play.song-I	play.song-I
+
+来	v	play.O	play.O
+首	m	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+张学友	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+照相	d	play.O	play.O
+限速	v	play.O	play.O
+60	m	play.O	play.song-B
+公里	q	play.O	play.song-I
+
+张学友	nr	play.singer-B	play.singer-B
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+残酷	a	play.song-B	play.song-B
+月光	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+体验	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听歌	v	play.O	play.O
+
+歌曲	n	play.O	play.O
+今世	t	play.song-B	play.song-B
+有缘	n	play.song-I	play.song-I
+
+歌曲	n	play.O	play.O
+
+歌曲	n	play.O	play.O
+恋人	n	play.song-B	play.song-B
+心	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+鸿雁	nr	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+千里	q	play.song-B	play.song-B
+之外	f	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+千里	q	play.song-B	play.song-B
+之外	f	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+舞娘	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+good	eng	play.O	play.O
+一曲	m	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+个	q	play.O	play.O
+社会	n	play.song-B	play.song-B
+摇	v	play.song-I	play.song-I
+
+齐豫	a	play.singer-B	play.singer-B
+
+听	v	play.O	play.O
+高胜美	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+ailee	eng	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+sini	eng	play.singer-B	play.song-B
+
+ne	eng	play.singer-I	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+simply	eng	play.singer-B	play.song-B
+
+sunday	eng	play.singer-I	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+播放歌曲	n	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+我们	r	play.song-B	play.song-B
+都	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+我们	r	play.song-B	play.song-B
+都	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+我们	r	play.song-B	play.song-B
+都	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+再次	d	play.O	play.O
+播放	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听歌	v	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+吹喇叭	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放歌曲	n	play.O	play.O
+凉凉	a	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+一下	m	play.O	play.O
+
+fay	eng	play.song-B	play.song-B
+
+播放歌曲	n	play.O	play.O
+咖喱	n	play.song-B	play.song-B
+咖啡	n	play.song-I	play.song-I
+
+播放歌曲	n	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+站	v	play.song-B	play.song-B
+在	p	play.song-I	play.song-I
+草原	n	play.song-I	play.song-I
+望	v	play.song-I	play.song-I
+北京	ns	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+草原	n	play.song-B	play.song-B
+望	v	play.song-I	play.song-I
+北京	ns	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+站	v	play.song-B	play.song-B
+在	p	play.song-I	play.song-I
+草原	n	play.song-I	play.song-I
+望	v	play.song-I	play.song-I
+北京	ns	play.song-I	play.song-I
+
+听	v	play.O	play.O
+东方	s	play.song-B	play.song-B
+
+唐宁	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+不要	df	pause.O	play.song-B
+了	ul	pause.O	play.song-I
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+搜索	v	play.O	play.O
+兄弟	n	play.song-B	play.song-B
+
+请	v	play.O	play.O
+搜索	v	play.O	play.O
+兄弟	n	play.song-B	play.song-B
+歌曲	n	play.O	play.O
+
+搜索	v	play.O	play.O
+歌星	n	play.O	play.song-B
+高	a	play.singer-B	play.song-I
+进	v	play.singer-I	play.song-I
+
+我	r	pause.O	play.O
+不要	df	pause.O	play.O
+听歌	v	pause.O	play.O
+啦	y	pause.O	play.O
+
+嘻	o	play.style-B	play.style-B
+哈	o	play.style-I	play.style-I
+
+嘻	o	play.style-B	play.song-B
+哈	o	play.style-I	play.song-I
+说唱	v	play.style-I	play.song-I
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+
+播放	v	play.O	play.O
+青藏高原	ns	play.song-B	play.song-B
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+红尘	n	play.song-B	play.song-B
+情歌	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+杨家将	nr	play.song-B	play.singer-B
+
+播放	v	play.O	play.O
+红尘	n	play.song-B	play.song-B
+情歌	n	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+嗨	e	play.song-B	play.song-B
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+海	n	play.song-B	play.song-B
+草屋	n	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+韩朝	nr	play.song-B	play.song-B
+舞	v	play.song-I	play.song-I
+
+为	p	play.O	play.O
+嘛	y	play.O	play.O
+他	r	play.O	play.O
+还	d	play.O	play.O
+骂	v	play.O	play.O
+我	r	play.O	play.O
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+邓丽君	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+一个	m	play.song-B	play.O
+女孩	n	play.song-I	play.song-B
+名叫	v	play.song-I	play.song-I
+婉	ag	play.song-I	play.song-I
+君	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一个	m	play.song-B	play.O
+女孩	n	play.song-I	play.song-B
+名叫	v	play.song-I	play.song-I
+婉	ag	play.song-I	play.song-I
+君	n	play.song-I	play.song-I
+
+残雪	n	play.song-B	play.song-B
+
+冷漠	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+我	r	play.song-B	play.song-B
+想	v	play.song-I	play.song-I
+静静	nr	play.song-I	play.song-I
+
+怀念	v	play.song-B	play.song-B
+青春	ns	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+怀念	v	play.song-B	play.song-B
+青春	ns	play.song-I	play.song-I
+
+点	m	play.O	play.O
+一首	m	play.O	play.O
+友谊	nr	play.song-B	play.song-B
+之	u	play.song-I	play.song-I
+光	n	play.song-I	play.song-I
+
+点	m	play.O	play.O
+个	m	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+我	r	play.song-B	play.song-B
+恨	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+痴心	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+张学友	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+专辑	n	play.O	play.O
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+找	v	play.O	play.O
+一	m	play.O	play.O
+找	v	play.O	play.song-B
+在	p	play.song-B	play.song-I
+人间	n	play.song-I	play.song-I
+这	r	play.O	play.O
+首歌	n	play.O	play.O
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+找	v	play.O	play.O
+找	v	play.O	play.O
+在	p	play.song-B	play.song-B
+人间	n	play.song-I	play.song-I
+这	r	play.O	play.O
+首歌	n	play.O	play.O
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+找	v	play.O	play.O
+一	m	play.O	play.O
+找	v	play.O	play.song-B
+林中	s	play.song-B	play.song-I
+的	uj	play.song-I	play.song-I
+小鸟	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+在	p	play.song-B	play.song-B
+人间	n	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+情笼	n	play.singer-B	play.song-B
+的	uj	play.O	play.song-I
+爱	v	play.song-B	play.song-I
+的	uj	play.song-I	play.song-I
+世界	n	play.song-I	play.song-I
+只有	c	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+一	m	play.song-B	play.song-B
+壶	q	play.song-I	play.song-I
+老酒	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一辈子	m	play.song-B	play.song-B
+对	p	play.song-I	play.song-I
+你好	l	play.song-I	play.song-I
+
+张煜	nrfg	play.singer-B	play.singer-B
+枫	nr	play.singer-I	play.singer-I
+
+取消	v	pause.O	pause.O
+
+点	m	play.O	play.O
+一首	m	play.O	play.O
+哦	zg	play.O	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+杨钰莹	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+杨钰莹	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+费玉清	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+一剪梅	nr	play.song-B	play.song-B
+
+费玉清	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+一剪梅	nr	play.song-B	play.song-B
+
+潇洒走	i	play.song-B	play.song-B
+一回	m	play.song-I	play.song-I
+
+关掉	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+你好	l	pause.O	pause.O
+把	p	pause.O	pause.O
+的	uj	pause.O	pause.O
+
+播放	v	play.O	play.O
+草原	n	play.style-B	play.O
+音乐	n	play.O	play.O
+
+音乐	n	pause.O	pause.O
+结束	v	pause.O	pause.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听歌	v	play.O	play.O
+
+播放	v	prev.O	prev.O
+上	f	prev.O	prev.O
+一曲	m	prev.O	prev.O
+
+再	d	prev.O	next.O
+上	f	prev.O	next.O
+一首	m	prev.O	next.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+高安	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+经典	n	play.theme-B	play.theme-B
+老歌	n	play.theme-I	play.theme-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+经典	n	play.theme-B	play.song-B
+的	uj	play.O	play.song-I
+老歌	n	play.theme-B	play.song-I
+
+听	v	play.O	play.O
+郑少秋	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+说散	v	play.song-B	play.song-B
+就	d	play.song-I	play.song-I
+散	v	play.song-I	play.song-I
+
+播放歌曲	n	play.O	play.O
+说散	v	play.song-B	play.song-B
+就	d	play.song-I	play.song-I
+散	v	play.song-I	play.song-I
+
+无字碑	n	play.song-B	play.song-B
+
+好好	d	play.song-B	play.song-B
+
+歌曲	n	play.O	play.O
+
+贺国丰	nr	play.singer-B	play.singer-B
+歌曲	n	play.O	play.O
+
+bonnie	eng	play.singer-B	play.singer-B
+
+听歌	v	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+都	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+黄家驹	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+酒干	n	play.song-B	play.song-B
+倘	c	play.song-I	play.song-I
+卖	v	play.song-I	play.song-I
+无	v	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+酒干	n	play.song-B	play.song-B
+倘	c	play.song-I	play.song-I
+卖	v	play.song-I	play.song-I
+无	v	play.song-I	play.song-I
+
+叮当	o	play.O	play.O
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一曲	m	play.O	play.O
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+春天	t	play.song-B	play.song-B
+在	p	play.song-I	play.song-I
+哪里	r	play.song-I	play.song-I
+
+一只	m	play.song-B	play.song-B
+大	a	play.song-I	play.song-I
+老虎	nr	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一曲	m	play.O	play.O
+一只	m	play.song-B	play.song-B
+大	a	play.song-I	play.song-I
+老虎	nr	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+那些	r	play.song-B	play.song-B
+花儿	n	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+那些	r	play.song-B	play.song-B
+花儿	n	play.song-I	play.song-I
+
+谭卿	nr	play.singer-B	play.singer-B
+如	v	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+丁娜	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+梁静茹	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+一	m	play.song-B	play.song-B
+壶	q	play.song-I	play.song-I
+老酒	n	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+一	m	play.song-B	play.song-B
+壶	q	play.song-I	play.song-I
+老酒	n	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+一	m	play.song-B	play.song-B
+壶	q	play.song-I	play.song-I
+老酒	n	play.song-I	play.song-I
+
+不	d	play.O	play.O
+一样	r	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+周杰伦	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+那	r	play.song-B	play.song-B
+一天	m	play.song-I	play.song-I
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+拥抱	v	play.song-B	play.O
+你	r	play.song-I	play.O
+的	uj	play.O	play.O
+插曲	n	play.O	play.O
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+拥抱	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+的	uj	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+版	n	play.O	play.O
+
+停止	v	pause.O	pause.O
+放歌	v	pause.O	pause.O
+
+放歌	v	play.O	play.O
+
+放	v	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+开心	v	play.song-B	play.song-B
+马骝	nr	play.song-I	play.song-I
+
+音乐	n	play.O	play.O
+当	t	play.song-B	play.song-B
+你老	r	play.song-I	play.song-I
+了	ul	play.song-I	play.song-I
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+夜色	n	play.song-B	play.song-B
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+夜色	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+王二妮	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+朋友	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+酒	n	play.song-I	play.song-I
+
+平凡	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+世界	n	play.song-I	play.song-I
+
+平凡	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+世界	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+平凡	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+世界	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+郝蕾	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+郝蕾	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+当爱已	i	play.song-B	play.song-B
+成	n	play.song-I	play.song-I
+往事	v	play.song-I	play.song-I
+
+暂停	d	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+继续	v	play.O	play.O
+播放	v	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+陈松伶	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+陈松伶	n	play.singer-B	play.song-B
+的	uj	play.O	play.song-I
+是否	v	play.song-B	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+当	p	play.song-B	play.song-B
+爱成	v	play.song-I	play.song-I
+了	ul	play.song-I	play.song-I
+往事	v	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+突然	ad	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+自我	r	play.song-I	play.song-I
+
+ina	eng	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+救赎	i	play.song-B	play.song-B
+
+来	v	play.O	play.O
+首	m	play.O	play.O
+泪流	n	play.song-B	play.song-B
+成河	ns	play.song-I	play.song-I
+
+李宇春	nr	play.singer-B	play.singer-B
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+唱	v	play.O	play.O
+儿歌	n	play.age-B	play.age-B
+吧	y	play.O	play.O
+
+打开	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+抱	v	play.song-B	play.song-B
+一下	m	play.song-I	play.song-I
+就	d	play.song-I	play.song-I
+好	a	play.song-I	play.song-I
+
+取消	v	pause.O	pause.O
+
+三十三	m	play.song-B	play.song-B
+块	zg	play.song-I	play.song-I
+
+三十三	m	play.song-B	play.song-B
+块	zg	play.song-I	play.song-I
+
+郑智化	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+33	m	play.song-B	play.song-B
+块	q	play.song-I	play.song-I
+
+水手	n	play.song-B	play.song-B
+
+水手	n	play.song-B	play.song-B
+
+郑智化	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+水手	n	play.song-B	play.song-B
+
+千纸鹤	i	play.song-B	play.song-B
+
+邰正宵	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+千纸鹤	i	play.song-B	play.song-B
+
+一千零一夜	m	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+
+播放	v	play.O	play.O
+凤凰	nr	play.singer-B	play.singer-B
+传奇	n	play.singer-I	play.singer-I
+
+爱	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+太	n	play.song-I	play.song-I
+寂寞	a	play.song-I	play.song-I
+请	v	play.O	play.O
+播放	v	play.O	play.O
+
+宇珩	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+嗯	e	play.O	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+姜育恒	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+苏勒亚其其格	ns	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+云菲菲	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+殇	vg	play.song-B	play.song-B
+雪	n	play.song-I	play.song-I
+
+歌曲	n	play.O	play.O
+成都	ns	play.song-B	play.song-B
+
+据	p	play.O	play.song-B
+北国之春	nr	play.song-B	play.song-I
+
+北国之春	nr	play.song-B	play.song-B
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+高安	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+换	nz	play.O	play.O
+一首	m	play.O	play.O
+高安	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+红尘	n	play.song-B	play.song-B
+情歌	n	play.song-I	play.song-I
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+来	v	play.song-B	play.song-B
+生缘	n	play.song-I	play.song-I
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+豫剧	n	play.O	play.song-B
+
+播放	v	play.O	play.O
+一	m	play.song-B	play.song-B
+人	n	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+饮酒	n	play.song-I	play.song-I
+醉	v	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+费玉清	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+张杰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+张杰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+宣传	vn	play.O	play.song-B
+
+来	v	play.O	play.O
+首歌	n	play.O	play.O
+
+来	v	play.O	play.O
+首歌	n	play.O	play.O
+牛	n	play.song-B	play.O
+啊	y	play.song-I	play.O
+牛	nr	play.song-I	play.singer-B
+
+刀郎	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+就	d	play.O	play.O
+可以	c	play.O	play.O
+把	p	play.O	play.O
+前面	f	play.O	play.O
+有个	r	play.O	play.O
+大石头	n	play.O	play.O
+的	uj	play.O	play.O
+是	v	play.O	play.song-B
+什么	r	play.O	play.song-I
+
+有	v	play.O	play.O
+那个	r	play.O	play.O
+大姐	n	play.O	play.O
+呀呀	y	play.O	play.O
+呀	y	play.O	play.O
+就行了	l	play.O	play.O
+吧	y	play.O	play.O
+刀郎	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+大哲	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+大	a	play.singer-B	play.singer-B
+壮	v	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+差	n	play.song-B	play.song-B
+一步	m	play.song-I	play.song-I
+
+辣妹子	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+hey	eng	play.song-B	play.song-B
+
+hey	eng	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+hey	eng	play.song-B	play.song-B
+
+hey	eng	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+嘿嘿	o	play.song-B	play.song-B
+哈哈	o	play.song-I	play.song-I
+
+郑智化	nr	play.singer-B	play.singer-B
+
+迟志强	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+阿杜	nr	play.singer-B	play.singer-B
+
+播放	v	play.O	play.O
+毛阿敏	nr	play.singer-B	play.singer-B
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+毛阿敏	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+同一首歌	i	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+霍尊	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+卷	n	play.song-B	play.song-B
+珠帘	n	play.song-I	play.song-I
+
+取消	v	pause.O	pause.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+有没有	v	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+单曲	n	play.O	play.O
+循环	vn	play.O	play.song-B
+说散	v	play.song-B	play.song-I
+就	d	play.song-I	play.song-I
+散	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+大灿	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+我	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+战争	n	play.song-B	play.song-B
+世界	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+姚贝娜	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+战争	n	play.song-B	play.song-B
+世界	n	play.song-I	play.song-I
+
+神奇	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+九寨	ns	play.song-I	play.song-I
+
+神奇	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+九寨	ns	play.song-I	play.song-I
+
+神奇	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+九寨	ns	play.song-I	play.song-I
+
+听	v	play.O	play.O
+女人	n	play.song-B	play.song-B
+花	v	play.song-I	play.song-I
+伴奏	v	play.theme-B	play.song-I
+
+听	v	play.O	play.O
+女人	n	play.song-B	play.song-B
+花	v	play.song-I	play.song-I
+伴奏	v	play.theme-B	play.song-I
+
+听	v	play.O	play.O
+女人	n	play.song-B	play.song-B
+花	v	play.song-I	play.song-I
+伴奏	v	play.theme-B	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+
+取消	v	pause.O	pause.O
+
+想	v	play.O	play.O
+听	v	play.O	play.O
+爱	v	play.song-B	play.song-B
+如	v	play.song-I	play.song-I
+潮水	n	play.song-I	play.song-I
+
+想	v	play.O	play.O
+听	v	play.O	play.O
+爱	v	play.song-B	play.song-B
+如	v	play.song-I	play.song-I
+潮水	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+有没有	v	play.song-B	play.song-B
+那么	r	play.song-I	play.song-I
+一首歌	m	play.song-I	play.song-I
+会	v	play.song-I	play.song-I
+让	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+想起	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+
+播放歌曲	n	play.O	play.O
+都	d	play.song-B	play.song-B
+选	v	play.song-I	play.song-I
+c	eng	play.song-I	play.song-I
+
+随机	d	play.O	play.O
+播放歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+
+有	v	play.song-B	play.song-B
+酒	n	play.song-I	play.song-I
+今朝	t	play.song-I	play.song-I
+醉	v	play.song-I	play.song-I
+
+江南	ns	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+我	r	play.song-B	play.song-B
+没	d	play.song-I	play.song-I
+改变	v	play.song-I	play.song-I
+
+取消	v	pause.O	pause.O
+
+来	v	play.O	play.O
+点	m	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+天下	s	play.song-B	play.song-B
+有情人	l	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+短	a	play.song-B	play.song-B
+和	c	play.song-I	play.song-I
+
+最远	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+是	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+最近	f	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+爱	n	play.song-I	play.song-I
+
+醉人	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+是	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+最近	f	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+爱	n	play.song-I	play.song-I
+
+最典	b	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+是	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+最近	f	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+爱	n	play.song-I	play.song-I
+
+请	v	play.O	play.O
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+姑娘	n	play.song-B	play.song-B
+我爱你	l	play.song-I	play.song-I
+
+请	v	play.O	play.O
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+浪人	n	play.song-B	play.song-B
+情歌	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+以后	f	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+以后	f	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+方芳	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+搜索	v	play.O	play.O
+歌曲	n	play.O	play.O
+霸王别姬	l	play.song-B	play.song-B
+
+搜索	v	play.O	play.O
+歌曲	n	play.O	play.O
+
+搜索	v	play.O	play.O
+歌曲	n	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+大壮	ns	play.singer-B	play.singer-B
+
+蓝莲花	nr	play.song-B	play.singer-B
+
+停止	v	pause.O	pause.O
+放歌	v	pause.O	pause.O
+
+小芳	nr	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+爱河	ns	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+桃花	n	play.song-B	play.song-B
+现下	t	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+约定	v	play.song-I	play.song-I
+
+还	d	play.O	play.O
+音乐	n	play.O	play.O
+
+好	a	play.song-B	play.song-B
+姑娘	n	play.song-I	play.song-I
+
+好	a	play.song-B	play.song-B
+姑娘	n	play.song-I	play.song-I
+
+好	a	play.song-B	play.song-B
+姑娘	n	play.song-I	play.song-I
+
+找	v	play.O	play.O
+一下	m	play.O	play.O
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+开	v	play.O	play.O
+音乐	n	play.O	play.O
+里面	f	play.O	play.song-B
+的	uj	play.O	play.song-I
+画颜	n	play.song-B	play.song-I
+
+花	v	play.song-B	play.song-B
+的话	u	play.song-I	play.song-I
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+开酷	a	play.O	play.song-B
+狗	n	play.O	play.song-I
+里边	f	play.O	play.song-I
+的	uj	play.O	play.song-I
+花	n	play.song-B	play.song-I
+的话	u	play.song-I	play.song-I
+
+邓丽欣	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+邓丽欣	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+邓丽君	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+孙露	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+酒干	n	play.song-B	play.song-B
+倘	c	play.song-I	play.song-I
+卖	v	play.song-I	play.song-I
+无	v	play.song-I	play.song-I
+
+韩红	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+赵薇	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+不能	v	play.song-B	play.song-B
+和	c	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+分手	v	play.song-I	play.song-I
+
+你好	l	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+大王	nrt	play.song-B	play.song-B
+叫	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+来	v	play.song-I	play.song-I
+巡山	n	play.song-I	play.song-I
+贾乃亮	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+贾乃亮	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+大王	nrt	play.song-B	play.song-B
+叫	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+来	v	play.song-I	play.song-I
+巡山	n	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+孙露	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+酒干	n	play.song-B	play.song-B
+倘	c	play.song-I	play.song-I
+卖	v	play.song-I	play.song-I
+无	v	play.song-I	play.song-I
+
+歌曲	n	play.O	play.O
+西海	ns	play.song-B	play.song-B
+情歌	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刀郎	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+情人	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刀郎	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+情人	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刀郎	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+情人	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+唱	v	play.O	play.O
+一首歌	m	play.O	play.O
+映山红	nr	play.song-B	play.song-B
+
+唱	v	play.O	play.O
+一首歌	m	play.O	play.O
+映山红	nr	play.song-B	play.song-B
+
+音乐	n	play.O	play.O
+
+关闭	v	pause.O	pause.O
+
+播放	v	play.O	play.O
+男儿	n	play.song-B	play.song-B
+当自强	i	play.song-I	play.song-I
+
+沧海	ns	play.song-B	play.song-B
+一声	m	play.song-I	play.song-I
+笑	v	play.song-I	play.song-I
+
+沧海	ns	play.song-B	play.song-B
+一声	m	play.song-I	play.song-I
+笑	v	play.song-I	play.song-I
+
+爱	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+世界	n	play.song-I	play.song-I
+只有	c	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+30	m	play.song-B	play.song-B
+出头	v	play.song-I	play.song-I
+
+拥抱	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+力气	n	play.song-I	play.song-I
+
+拥抱	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+离去	v	play.song-I	play.song-I
+
+30	m	play.song-B	play.song-B
+出头	v	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+拥抱	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+理由	n	play.song-I	play.song-I
+曲	q	play.O	play.song-I
+
+30	m	play.song-B	play.song-B
+出头	v	play.song-I	play.song-I
+
+取消	v	pause.O	pause.O
+
+拥抱	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+离去	v	play.song-I	play.song-I
+
+冲动	vn	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+惩罚	vn	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听歌	v	play.O	play.O
+
+听	v	play.O	play.O
+话音	n	play.O	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+听	v	play.O	play.O
+那英	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+听	v	play.O	play.O
+迈克	nrt	play.singer-B	play.singer-B
+杰克逊	nr	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+李佳思	nr	play.singer-B	play.singer-B
+
+唱	v	play.O	play.O
+首歌曲	n	play.O	play.O
+
+来	v	play.O	play.O
+首歌	n	play.O	play.O
+
+播放	v	next.O	next.O
+下	f	next.O	next.O
+一首歌	m	next.O	next.O
+
+播放	v	play.O	play.O
+悟空	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+青藏高原	ns	play.song-B	play.song-B
+
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+宝贝	nr	play.O	play.singer-B
+别哭	v	play.song-B	play.song-B
+了	ul	play.song-I	play.song-I
+宝贝	nr	play.song-I	play.song-I
+
+别哭	v	play.song-B	play.song-B
+了	ul	play.song-I	play.song-I
+宝贝	nr	play.song-I	play.song-I
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+抗战	nz	play.song-B	play.song-B
+二十年	m	play.song-I	play.song-I
+
+抗战	nz	play.song-B	play.song-B
+二十年	m	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+抗战	nz	play.song-B	play.song-B
+二十年	m	play.song-I	play.song-I
+
+蓝牙	ns	next.O	next.O
+音乐	n	next.O	next.O
+下	f	next.O	next.O
+一曲	m	next.O	next.O
+
+成都	ns	play.song-B	play.song-B
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+草蜢	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+爱情	n	play.song-B	play.O
+播放	v	play.O	play.O
+全	a	play.song-B	play.song-B
+是	v	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+让	v	play.song-B	play.song-B
+我们	r	play.song-I	play.song-I
+荡起	v	play.song-I	play.song-I
+双桨	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+让	v	play.song-B	play.song-B
+我们	r	play.song-I	play.song-I
+荡起	v	play.song-I	play.song-I
+双桨	n	play.song-I	play.song-I
+
+让	v	play.song-B	play.song-B
+我们	r	play.song-I	play.song-I
+荡起	v	play.song-I	play.song-I
+双桨	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+记事本	n	play.song-B	play.song-B
+
+记事本	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+记事本	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+
+唱	v	play.O	play.O
+一个	m	play.O	play.O
+
+神曲	n	play.theme-B	play.song-B
+
+给	p	play.O	play.O
+高	a	play.O	play.O
+的	uj	play.O	play.O
+放	v	play.O	play.O
+贝瓦	nr	play.singer-B	play.singer-B
+儿歌	n	play.singer-I	play.age-B
+
+播放	v	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+今生	t	play.song-B	play.song-B
+一起	m	play.song-I	play.song-I
+走	v	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+今生	t	play.song-B	play.song-B
+陪	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+一起	m	play.song-I	play.song-I
+走	v	play.song-I	play.song-I
+
+放下	v	next.O	next.O
+一曲	m	next.O	next.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+红色	n	play.song-B	play.song-B
+高跟鞋	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+完	v	play.O	play.O
+红色	n	play.song-B	play.O
+高跟鞋	n	play.song-I	play.O
+后	f	play.O	play.O
+播放	v	play.O	play.O
+几度	d	play.song-B	play.song-B
+梦回	v	play.song-I	play.song-I
+大唐	nz	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+被	p	play.song-B	play.song-B
+过手	n	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+拨	v	play.O	play.O
+背	v	play.song-B	play.song-B
+过手	n	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+背	v	play.song-B	play.song-B
+过手	n	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+几度	d	play.song-B	play.song-B
+梦回	v	play.song-I	play.song-I
+大唐	nz	play.song-I	play.song-I
+它	r	play.O	play.O
+的	uj	play.O	play.O
+作者	n	play.O	play.song-B
+是	v	play.O	play.song-I
+卖	v	play.singer-B	play.song-I
+药材	n	play.singer-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+合唱	v	play.O	play.O
+版	n	play.O	play.O
+金志文	nr	play.singer-B	play.singer-B
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+几度	d	play.song-B	play.song-B
+梦回	v	play.song-I	play.song-I
+大唐	nz	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+my	eng	play.O	play.song-B
+
+city	eng	play.O	play.singer-B
+乐才	nr	play.O	play.singer-I
+的	uj	play.O	play.O
+几度	d	play.song-B	play.song-B
+梦回	v	play.song-I	play.song-I
+大唐	nz	play.song-I	play.song-I
+
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+下	f	next.O	next.O
+一曲	m	next.O	next.O
+
+音乐	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+迪克牛仔	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+再见	v	play.song-B	play.song-B
+民族	n	play.song-I	play.song-I
+风	n	play.song-I	play.song-I
+
+来	v	play.O	play.O
+情歌	n	play.theme-B	play.O
+吗	y	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听歌	v	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+梦	n	play.song-B	play.song-B
+中	f	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+兰花花	nr	play.song-I	play.song-I
+
+大壮	ns	play.singer-B	play.singer-B
+
+播放	v	play.O	play.O
+刀郎	n	play.singer-B	play.singer-B
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+毛阿敏	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+毛阿敏	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+我	r	play.O	play.O
+要	v	play.O	play.O
+听歌曲	nr	play.O	play.O
+
+江南	ns	play.song-B	play.song-B
+来	v	play.O	play.O
+一首	m	play.O	play.O
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+儿歌	n	play.age-B	play.age-B
+来	v	play.O	play.O
+一首	m	play.O	play.O
+儿歌	n	play.age-B	play.age-B
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+来	v	play.O	play.O
+一首	m	play.O	play.O
+儿歌	n	play.age-B	play.age-B
+
+切歌	v	next.O	next.O
+
+大众	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+章亭	nr	play.singer-B	play.singer-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+大众	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+我们	r	play.song-B	play.song-B
+都	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+大蒜	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+大传	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+大	a	play.singer-B	play.singer-B
+壮	v	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+大壮	ns	play.singer-B	play.song-B
+
+青歌	n	play.song-B	play.song-B
+赛过	v	play.song-I	play.song-I
+春	tg	play.song-I	play.song-I
+江水	ns	play.song-I	play.song-I
+
+青歌	n	play.song-B	play.song-B
+赛过	v	play.song-I	play.song-I
+春	tg	play.song-I	play.song-I
+江水	ns	play.song-I	play.song-I
+
+情歌	n	play.song-B	play.song-B
+赛过	v	play.song-I	play.song-I
+春	tg	play.song-I	play.song-I
+江水	ns	play.song-I	play.song-I
+
+歌曲	n	play.O	play.O
+白酒	n	play.song-B	play.O
+啤酒	n	play.song-I	play.O
+葡萄酒	n	play.song-I	play.O
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+叮当	o	play.O	play.O
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+叮当	o	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+放首	v	play.O	play.O
+音乐	n	play.O	play.O
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+来	v	play.O	play.O
+首	m	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+一路	m	play.song-B	play.song-B
+向	p	play.song-I	play.song-I
+北	ns	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+我们	r	play.song-B	play.song-B
+都	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+青藏高原	ns	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+怒放	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+生命	vn	play.song-I	play.song-I
+
+让	v	play.O	play.O
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+迟来	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+爱	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+心雨	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+千千阙歌	nr	play.song-B	play.singer-B
+
+放首	v	play.O	play.O
+你	r	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+温柔	a	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+仓	nr	play.singer-B	play.singer-B
+央	vg	play.singer-I	play.O
+卓玛	nr	play.singer-I	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+播放	v	play.O	play.O
+像	v	play.song-B	play.song-B
+我	r	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+她	r	play.song-I	play.song-I
+
+阚泽良	nr	play.singer-B	play.singer-B
+
+取消	v	pause.O	pause.O
+
+dj	eng	play.theme-B	play.theme-B
+版	n	play.O	play.O
+江湖	ns	play.song-B	play.song-B
+大盗	n	play.song-I	play.song-I
+
+dj	eng	play.theme-B	play.theme-B
+版	n	play.O	play.O
+江湖	ns	play.song-B	play.song-B
+大盗	n	play.song-I	play.song-I
+
+江湖	ns	play.song-B	play.song-B
+大盗	n	play.song-I	play.song-I
+
+江湖	ns	play.song-B	play.song-B
+大盗	n	play.song-I	play.song-I
+
+歌曲	n	play.O	play.O
+江湖	ns	play.song-B	play.song-B
+大盗	n	play.song-I	play.song-I
+
+mc	eng	play.singer-B	play.singer-B
+天佑	nz	play.singer-I	play.singer-I
+
+m	x	play.singer-B	play.song-B
+
+c	x	play.singer-I	play.singer-B
+天佑	nz	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+喊麦	n	play.theme-B	play.O
+歌曲	n	play.O	play.O
+
+拥抱	v	play.song-B	play.song-B
+明天	t	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+暂停	d	pause.O	pause.O
+
+播放	v	play.O	play.O
+music	eng	play.O	play.O
+
+听歌	v	play.O	play.O
+
+红太阳	nr	play.song-B	play.singer-B
+
+音乐	n	pause.O	pause.O
+暂停	d	pause.O	pause.O
+太	d	pause.O	pause.O
+难听	v	pause.O	pause.O
+了	ul	pause.O	pause.O
+
+请	v	play.O	play.O
+为	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+美丽	ns	play.song-B	play.song-B
+溆浦	ns	play.song-I	play.song-I
+
+唱	v	play.O	play.O
+许冠杰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+许冠杰	nr	play.singer-B	play.singer-B
+
+播放	v	play.O	play.O
+许冠杰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+天才	n	play.song-B	play.song-B
+与	p	play.song-I	play.song-I
+白痴	nr	play.song-I	play.song-I
+
+music	eng	play.O	play.O
+
+你好	l	play.O	play.O
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+童话	n	play.song-B	play.song-B
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+童话	n	play.song-B	play.song-B
+镇	n	play.song-I	play.song-I
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+童话	n	play.song-B	play.song-B
+镇	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+张信哲	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+情路	n	play.song-B	play.song-B
+弯弯	v	play.song-I	play.song-I
+
+帮	v	pause.O	pause.O
+我	r	pause.O	pause.O
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首歌	m	play.O	play.O
+
+来	v	play.O	play.O
+一曲	m	play.O	play.O
+白狐	nz	play.song-B	play.song-B
+
+来	v	play.O	play.O
+一曲	m	play.O	play.O
+谭咏	nrfg	play.singer-B	play.singer-B
+麟	ng	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+
+来	v	play.O	play.O
+一曲	m	play.O	play.O
+谭咏	nrfg	play.singer-B	play.singer-B
+麟	ng	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+情人	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+歌	n	play.O	play.O
+
+说散	v	play.song-B	play.song-B
+就	d	play.song-I	play.song-I
+散	v	play.song-I	play.song-I
+
+的	uj	play.O	play.O
+音乐	n	play.O	play.O
+
+张北	nr	play.singer-B	play.singer-B
+北	f	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+音乐	n	play.O	play.O
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+你	r	play.O	play.O
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+浩瀚	a	play.singer-B	play.song-B
+来	v	play.O	play.song-I
+点歌	n	play.O	play.song-I
+
+音乐	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+降央卓玛	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+dc	eng	play.O	play.song-B
+的	uj	play.O	play.song-I
+hey	eng	play.song-B	play.song-I
+
+baby	eng	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+老婆	n	play.song-B	play.song-B
+老婆	n	play.song-I	play.song-I
+我爱你	l	play.song-I	play.song-I
+
+我	r	play.O	play.O
+说	v	play.O	play.O
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+老婆	n	play.song-B	play.song-B
+老婆	n	play.song-I	play.song-I
+我爱你	l	play.song-I	play.song-I
+
+嗯	e	play.O	play.O
+播放	v	play.O	play.O
+宋冬野	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+不得不	d	play.song-B	play.song-B
+爱	v	play.song-I	play.song-I
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+高洪章	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+梦回	v	play.song-B	play.song-B
+云南	ns	play.song-I	play.song-I
+着	uz	play.O	play.song-I
+兰州	ns	play.O	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+高洪章	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+梦回	v	play.song-B	play.O
+云南	ns	play.song-I	play.O
+唱	v	play.O	play.O
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+大悲咒	i	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+司徒	n	play.singer-B	play.song-B
+兰芳	nr	play.singer-I	play.song-I
+
+播放	v	play.O	play.O
+司徒	n	play.singer-B	play.singer-B
+兰芳	nr	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+三生	b	play.song-B	play.song-B
+三世	nrt	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+三生	b	play.song-B	play.song-B
+三世	nrt	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+新	a	play.song-B	play.song-B
+贵妃醉酒	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+最	d	play.song-B	play.song-B
+炫	v	play.song-I	play.song-I
+民族	n	play.song-I	play.song-I
+风	n	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+音乐	n	play.O	play.O
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+网络	n	play.toplist-B	play.toplist-B
+歌曲	n	play.O	play.O
+
+请	v	play.O	play.O
+为	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+到	v	play.song-B	play.song-B
+清晨	t	play.song-I	play.song-I
+
+请	v	play.O	play.O
+为	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+大清	b	play.song-B	play.song-B
+贼	n	play.song-I	play.song-I
+
+请	v	play.O	play.O
+为	p	play.O	play.O
+我	r	play.O	play.O
+播放歌曲	n	play.O	play.O
+到	v	play.song-B	play.song-B
+心	n	play.song-I	play.song-I
+贼	n	play.song-I	play.song-I
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+黑龙	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+张明敏	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+dj	eng	play.theme-B	play.theme-B
+
+播放	v	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+类型	n	play.O	play.O
+歌曲	n	play.O	play.O
+
+放首	v	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+
+dj	eng	play.theme-B	play.theme-B
+
+播放	v	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+
+我	r	play.song-B	play.song-B
+最爱	a	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+姑娘	n	play.song-I	play.song-I
+
+我	r	play.song-B	play.song-B
+最爱	a	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+姑娘	n	play.song-I	play.song-I
+dj	eng	play.theme-B	play.theme-B
+
+播放	v	play.O	play.O
+古巨基	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+情歌	n	play.song-B	play.song-B
+王	nr	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+闯	v	play.song-B	play.song-B
+码头	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+
+播放	v	play.O	play.O
+爸爸妈妈	nr	play.song-B	play.singer-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+周杰伦	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+跨	vn	play.song-B	play.song-B
+时代	n	play.song-I	play.song-I
+
+爸爸	n	play.song-B	play.song-B
+去	v	play.song-I	play.song-I
+哪儿	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+这条	mq	play.song-B	play.song-B
+街	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+不要	df	play.song-B	play.song-B
+在	p	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+寂寞	a	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+时候	n	play.song-I	play.song-I
+
+听	v	play.O	play.O
+首	m	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+赵雷	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+成都	ns	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+赵雷	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+成都	ns	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+赵雷	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+成都	ns	play.song-B	play.song-B
+
+轻音乐	n	play.style-B	play.style-B
+吧	y	play.O	play.O
+
+播歌	v	play.O	play.O
+
+播放	v	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+真的	d	play.song-B	play.song-B
+爱	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+爱	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+二	m	play.song-B	play.song-B
+ne	eng	play.song-I	play.song-I
+
+大山	ns	play.song-B	play.song-B
+走出	v	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+孩子	n	play.song-I	play.song-I
+
+感动	v	play.song-B	play.song-B
+
+播放歌曲	n	play.O	play.O
+感动	v	play.song-B	play.song-B
+
+放	v	play.O	play.O
+歌曲	n	play.O	play.O
+感动	v	play.song-B	play.song-B
+
+请	v	play.O	play.O
+为	p	play.O	play.O
+我	r	play.O	play.O
+播放歌曲	n	play.O	play.O
+小宝贝	nr	play.song-B	play.song-B
+
+请	v	play.O	play.O
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+摇篮曲	n	play.song-B	play.song-B
+
+请	v	play.O	play.O
+为	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+小宝贝	nr	play.song-B	play.singer-B
+巧	a	play.singer-B	play.O
+千金	n	play.singer-I	play.O
+版	n	play.O	play.O
+
+想	v	play.O	play.O
+听	v	play.O	play.O
+就	d	play.song-B	play.song-B
+当	p	play.song-I	play.song-I
+我们	r	play.song-I	play.song-I
+没	d	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+过	ug	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+就	d	play.song-B	play.song-B
+当	p	play.song-I	play.song-I
+我们	r	play.song-I	play.song-I
+没	d	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+过	ug	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+就	d	play.song-B	play.song-B
+当	p	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+没	d	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+过	ug	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+张宇	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想要	v	play.O	play.O
+听	v	play.O	play.O
+my	eng	play.song-B	play.song-B
+
+city	eng	play.song-I	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+周华健	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+朋友	n	play.song-B	play.song-B
+
+打开	v	play.O	play.O
+音乐	n	play.O	play.O
+
+迟志强	nr	play.singer-B	play.singer-B
+
+迟志强	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+北郊	ns	play.song-B	play.song-B
+
+dj	eng	play.theme-B	play.theme-B
+
+失真	v	play.song-B	play.O
+dj	eng	play.theme-B	play.theme-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听歌	v	play.O	play.O
+
+嗯	e	play.O	play.O
+听歌	v	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+许多年	m	play.song-B	play.song-B
+以后	f	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+邓丽君	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+吧	y	play.O	play.O
+
+相思	v	play.song-B	play.song-B
+债	n	play.song-I	play.song-I
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+cd	eng	play.song-B	play.song-B
+
+cd	eng	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+稻香	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+九号	m	play.song-B	play.song-B
+公馆	n	play.song-I	play.song-I
+
+搜索	v	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放歌曲	n	play.O	play.O
+一万个	m	play.song-B	play.song-B
+理由	n	play.song-I	play.song-I
+
+音乐	n	play.O	play.O
+
+来	v	play.O	play.O
+首	m	play.O	play.O
+音乐吧	n	play.O	play.song-B
+
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+错过	v	play.song-B	play.song-B
+了	ul	play.song-I	play.song-I
+缘分	n	play.song-I	play.song-I
+错过	v	play.song-I	play.song-I
+了	ul	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+秋殇	nr	play.song-B	play.song-B
+别恋	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+秋殇	nr	play.song-B	play.song-B
+别恋	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+秋殇	nr	play.song-B	play.song-B
+别恋	v	play.song-I	play.song-I
+
+音乐	n	play.O	play.O
+送给	v	play.O	play.song-B
+大家	n	play.O	play.song-I
+
+取消	v	pause.O	pause.O
+
+放	v	play.O	play.O
+点	m	play.O	play.O
+音乐	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+儿歌	n	play.age-B	play.age-B
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+说散	v	play.song-B	play.song-B
+就	d	play.song-I	play.song-I
+散	v	play.song-I	play.song-I
+
+播	v	play.O	play.O
+一下	m	play.O	play.O
+
+九妹	n	play.song-B	play.song-B
+
+放	v	play.O	play.O
+点	m	play.O	play.O
+音乐	n	play.O	play.O
+
+退出	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+一首	m	play.O	play.O
+梁祝	nr	play.song-B	play.song-B
+公园	n	play.song-B	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+来	v	play.O	play.O
+一首	m	play.O	play.O
+上海滩	ns	play.song-B	play.song-B
+
+hello	eng	play.O	play.O
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+光辉	nr	play.song-B	play.song-B
+岁月	t	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+还好	v	play.song-B	play.song-B
+了	ul	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+国语	nz	play.language-B	play.language-B
+dj	eng	play.theme-B	play.theme-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+专题	n	play.O	play.song-B
+爱	v	play.song-B	play.song-I
+不	d	play.song-I	play.song-I
+容易	a	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+冷漠	n	play.song-B	play.song-B
+
+播放	v	next.O	next.O
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+播放	v	play.O	play.O
+一个	m	play.O	play.O
+孙露	nr	play.singer-B	play.singer-B
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+爱情	n	play.song-B	play.song-B
+不是	c	play.song-I	play.song-I
+毒药	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+703	m	play.O	play.song-B
+
+菊花	n	play.song-B	play.song-B
+台	q	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+菊花	n	play.song-B	play.song-B
+台	q	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+拥抱着	l	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+离去	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+我	r	play.song-B	play.song-B
+想	v	play.song-I	play.song-I
+静静	nr	play.song-I	play.song-I
+
+阿果	n	play.singer-B	play.singer-B
+
+全世界	n	play.song-B	play.song-B
+宣布	v	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+放	v	play.O	play.O
+许一璇	nr	play.singer-B	play.singer-B
+汪源	nr	play.singer-B	play.singer-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+全世界	n	play.song-B	play.song-B
+宣布	v	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+耶耶耶	nr	play.song-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+爷爷	n	play.song-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+抓紧	v	play.O	play.O
+
+耶耶耶	nr	play.song-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+鹭岛	ns	play.song-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+歌曲	n	play.O	play.O
+杀猪刀	n	play.song-B	play.O
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+分开	v	play.song-B	play.song-B
+旅行	vn	play.song-I	play.song-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+听	v	play.O	play.O
+群星	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+歌曲	n	play.O	play.O
+
+分开	v	play.song-B	play.song-B
+旅行	vn	play.song-I	play.song-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+哲	nr	play.singer-B	play.singer-B
+毅	nr	play.singer-I	play.singer-I
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+陈奕迅	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+jolly	eng	play.singer-B	play.song-B
+
+v	eng	play.singer-I	play.singer-B
+的	uj	play.O	play.O
+你好	l	play.song-B	play.song-B
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+关闭	v	pause.O	pause.O
+歌曲	n	pause.O	pause.O
+
+张国荣	nr	play.singer-B	play.singer-B
+音乐	n	play.O	play.O
+
+停止	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+放首	v	play.O	play.O
+轻音乐	n	play.style-B	play.song-B
+
+走马	n	play.song-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+放首	v	play.O	play.O
+降央卓玛	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+放首	v	play.O	play.O
+降央卓玛	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+小燕子	nr	play.song-B	play.singer-B
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+小燕子	nr	play.song-B	play.singer-B
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+儿歌	n	play.age-B	play.age-B
+小燕子	nr	play.song-B	play.song-B
+
+来	v	play.O	play.O
+林志炫	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+吗	y	play.O	play.O
+
+没有	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+陪伴	n	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+真的	d	play.song-I	play.song-I
+好孤单	z	play.song-I	play.song-I
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+这	r	play.O	play.O
+首歌	n	play.O	play.O
+
+没有	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+陪伴	n	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+真的	d	play.song-I	play.song-I
+好孤单	z	play.song-I	play.song-I
+
+弯弯的	z	play.song-B	play.song-B
+月亮	n	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+薛乐	nr	play.singer-B	play.singer-B
+一首歌	m	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+给	p	play.song-B	play.song-B
+我	r	play.song-I	play.song-I
+一首歌	m	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+时间	n	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+蓝莲花	nr	play.song-B	play.song-B
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+落雨	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+秋	n	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+王菲	nr	play.singer-B	play.song-B
+一样	r	play.song-B	play.song-I
+
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+拥抱	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+离去	v	play.song-I	play.song-I
+
+拥抱	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+离去	v	play.song-I	play.song-I
+dj	eng	play.theme-B	play.theme-B
+版	n	play.O	play.O
+
+拥抱	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+离去	v	play.song-I	play.song-I
+dj	eng	play.theme-B	play.theme-B
+版	n	play.O	play.O
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+女儿	n	play.song-B	play.song-B
+情	n	play.song-I	play.song-I
+
+烂	v	play.song-B	play.song-B
+朋友	n	play.song-I	play.song-I
+
+男朋友	n	play.song-B	play.song-B
+
+男朋友	n	play.song-B	play.song-B
+
+男朋友	n	play.song-B	play.song-B
+
+男朋友	n	play.song-B	play.song-B
+这	r	play.O	play.O
+首歌	n	play.O	play.O
+
+说	v	play.song-B	play.song-B
+爱	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听歌	v	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听歌	v	play.O	play.O
+张宇	nr	play.singer-B	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听歌	v	play.O	play.O
+春天里	nr	play.song-B	play.song-B
+
+音乐	n	play.O	play.O
+
+给	p	next.O	play.O
+我	r	next.O	play.O
+换	v	next.O	play.O
+一首	m	next.O	play.O
+歌曲	n	next.O	play.O
+
+换	nz	next.O	next.O
+一首	m	next.O	next.O
+歌曲	n	next.O	next.O
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+
+音乐	n	play.O	play.O
+
+沙漠	n	play.song-B	play.song-B
+之恋	nr	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+越策	nr	play.O	play.singer-B
+菩萨	n	play.O	play.singer-I
+的	uj	play.O	play.O
+莲	n	play.O	play.song-B
+
+播放	v	next.O	next.O
+下	f	next.O	next.O
+一曲	m	next.O	next.O
+
+播放	v	play.O	play.O
+逆流	n	play.song-B	play.song-B
+成河	ns	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+王者	n	play.song-B	play.song-B
+战歌	n	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+半	m	play.song-B	play.song-B
+壶	q	play.song-I	play.song-I
+纱	n	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+半	m	play.song-B	play.song-B
+壶	q	play.song-I	play.song-I
+纱	n	play.song-I	play.song-I
+
+放	v	play.O	play.O
+一个	m	play.O	play.O
+寂寞	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+时候	n	play.song-I	play.song-I
+想起	v	play.song-I	play.song-I
+
+胡彦斌	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+混混	a	play.song-B	play.song-B
+们	k	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+胡彦斌	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+还魂	v	play.song-B	play.song-B
+
+菩萨	n	play.song-B	play.song-B
+座	q	play.song-I	play.song-I
+前	f	play.song-I	play.song-I
+
+屠杀	vn	play.song-B	play.song-B
+赚钱	v	play.song-I	play.song-I
+
+屠杀	vn	play.song-B	play.song-B
+桌前	s	play.song-I	play.song-I
+
+菩萨	n	play.song-B	play.song-B
+座	q	play.song-I	play.song-I
+前	f	play.song-I	play.song-I
+
+菩萨	n	play.song-B	play.song-B
+座	q	play.song-I	play.song-I
+前	f	play.song-I	play.song-I
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+一首	m	play.O	play.O
+谢霆锋	nr	play.singer-B	play.singer-B
+唱	v	play.O	play.O
+的	uj	play.O	play.O
+成者	n	play.song-B	play.song-B
+为	p	play.song-I	play.song-I
+王	nr	play.song-I	play.song-I
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+一首	m	play.O	play.O
+狮子王	n	play.O	play.song-B
+唱	v	play.O	play.O
+的	uj	play.O	play.O
+再见	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+爱	n	play.song-I	play.song-I
+
+请	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+点	q	play.O	play.O
+一首	m	play.O	play.O
+狮子	n	play.song-B	play.song-B
+团	n	play.O	play.song-I
+合唱	v	play.O	play.song-I
+的的	u	play.O	play.song-I
+百年孤独	i	play.song-B	play.song-I
+
+请	v	play.O	play.O
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+首歌曲	n	play.O	play.O
+军中	s	play.song-B	play.song-B
+绿花	n	play.song-I	play.song-I
+
+请	v	play.O	play.O
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+一首	m	play.O	play.O
+那个	r	play.O	play.song-B
+哦	zg	play.O	play.song-I
+
+张靓	nr	play.O	play.singer-B
+玫的	n	play.O	play.O
+27	m	play.O	play.O
+找	v	play.O	play.O
+个	q	play.O	play.O
+许佳慧	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+走	v	play.song-B	play.song-B
+后	f	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+思恋	v	play.song-I	play.song-I
+
+陈波	nr	play.singer-B	play.singer-B
+
+播放	v	play.O	play.O
+郎郎	nr	play.singer-B	play.singer-B
+
+方芳	nr	play.singer-B	play.singer-B
+
+播放	v	play.O	play.O
+突然	ad	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+自我	r	play.song-I	play.song-I
+
+a402	eng	play.O	play.song-I
+我	r	play.song-B	play.song-I
+的	uj	play.song-I	play.song-I
+天空	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+我	r	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+天空	n	play.song-I	play.song-I
+哦	e	play.O	play.song-I
+有	v	play.O	play.song-I
+有	v	play.O	play.song-I
+有	v	play.O	play.song-I
+白色	n	play.O	play.song-I
+
+张学友	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+张学友	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+粤语	n	play.language-B	play.song-B
+我	r	play.song-B	play.song-I
+等	u	play.song-I	play.song-I
+得	ud	play.song-I	play.song-I
+花儿	n	play.song-I	play.song-I
+也	d	play.song-I	play.song-I
+谢	v	play.song-I	play.song-I
+了	ul	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+恭喜发财	l	play.song-B	play.song-B
+
+听	v	play.O	play.O
+恭喜发财	l	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+都	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+都	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+都	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+南	f	play.song-B	play.song-B
+无	v	play.song-I	play.song-I
+观世音	n	play.song-I	play.song-I
+菩萨	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+冰雨	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+孙露	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+孙露	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+孙露	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+许多年	m	play.song-B	play.song-B
+以后	f	play.song-I	play.song-I
+mv	eng	play.O	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+祁隆	ns	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+兄弟	n	play.song-B	play.song-B
+我	r	play.song-I	play.song-I
+想	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+了	ul	play.song-I	play.song-I
+
+听	v	play.O	play.O
+谭	vn	play.singer-B	play.singer-B
+咏麟	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+青海	ns	play.singer-B	play.song-B
+咏	v	play.singer-I	play.song-I
+琳	nr	play.singer-I	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+谭咏	nrfg	play.singer-B	play.singer-B
+麟	ng	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听歌	v	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听歌	v	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听歌	v	play.O	play.O
+
+播放	v	next.O	next.O
+下	f	next.O	next.O
+一曲	m	next.O	next.O
+歌曲	n	next.O	next.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+田震	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+那英	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+降央卓玛	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+你	r	play.O	play.O
+能	v	play.O	play.O
+帮	v	play.O	play.O
+我	r	play.O	play.O
+找	v	play.O	play.O
+一下	m	play.O	play.O
+我	r	play.song-B	play.O
+有	v	play.song-I	play.O
+一个	m	play.song-I	play.O
+家	m	play.song-I	play.O
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+吗	y	play.O	play.O
+
+你	r	play.O	play.O
+能	v	play.O	play.O
+给	p	play.O	play.O
+我	r	play.O	play.O
+说	v	play.O	play.O
+说	v	play.O	play.O
+一个	m	play.O	play.O
+小	a	play.O	play.song-B
+魔仙	n	play.O	play.song-I
+堡	ng	play.O	play.song-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+吗	y	play.O	play.O
+谢谢	nr	play.O	play.singer-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+昨日	t	play.song-B	play.song-B
+重现	v	play.song-I	play.song-I
+
+凤飞飞	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+寂寞	a	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+心碎	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+寂寞	a	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+心碎	v	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+寂寞	a	play.song-I	play.song-I
+
+放	v	play.O	play.O
+郭峰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+都	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+想	v	play.O	play.O
+听	v	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+谢军	nr	play.singer-B	play.singer-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+
+阿布	nr	play.singer-B	play.singer-B
+
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+小苹果	nr	play.song-B	play.song-B
+
+害	v	play.O	play.O
+我	r	play.O	play.O
+等	u	play.O	play.O
+下	f	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+播放	v	play.O	play.O
+追光	v	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+追光	v	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+汪苏	nr	play.singer-B	play.singer-B
+泷	g	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+红尘	n	play.song-B	play.song-B
+情歌	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一下	m	play.O	play.O
+
+取消	v	pause.O	pause.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+任静	nr	play.singer-B	play.singer-B
+
+金志文	nr	play.singer-B	play.singer-B
+唱	v	play.O	play.O
+的	uj	play.O	play.O
+热热	a	play.toplist-B	play.O
+热	a	play.toplist-I	play.O
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+金志文	nr	play.singer-B	play.singer-B
+唱	v	play.O	play.O
+的	uj	play.O	play.O
+认定	v	play.song-B	play.O
+歌曲	n	play.O	play.O
+
+baby	eng	play.O	play.O
+一下	m	play.O	play.O
+网络	n	play.toplist-B	play.toplist-B
+歌曲	n	play.O	play.O
+
+歌曲	n	play.O	play.O
+我们	r	play.song-B	play.song-B
+走	v	play.song-I	play.song-I
+
+皮皮虾	nr	play.song-B	play.singer-B
+歌曲	n	play.O	play.O
+
+两只	m	play.song-B	play.song-B
+老虎	nr	play.song-I	play.song-I
+
+白龙马	nr	play.song-B	play.song-B
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+小白兔	nr	play.song-B	play.song-B
+
+音乐	n	play.O	play.O
+
+音乐	n	play.O	play.O
+
+关掉	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+放歌	v	play.O	play.O
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+很	d	play.song-B	play.song-B
+爱	v	play.song-I	play.song-I
+很	d	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+你	r	play.song-B	play.song-B
+爱	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+像	v	play.song-I	play.song-I
+谁	r	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+舞曲	n	play.style-B	play.song-B
+3	m	play.O	play.song-I
+d	eng	play.O	play.song-I
+立体声	d	play.O	play.song-I
+dj	eng	play.theme-B	play.theme-B
+
+环绕	v	play.song-B	play.song-B
+立体声	d	play.song-I	play.song-I
+歌曲	n	play.O	play.O
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+青楼	n	play.song-B	play.song-B
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+情奴	n	play.song-B	play.song-B
+
+朋友	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+酒	n	play.song-I	play.song-I
+
+朋友	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+酒	n	play.song-I	play.song-I
+
+朋友	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+酒	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+雨露	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+红尘	n	play.song-B	play.song-B
+路上	s	play.song-I	play.song-I
+拥有	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+听	v	play.O	play.O
+雨露	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+雨露	nr	play.singer-B	play.singer-B
+演唱	v	play.O	play.O
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+成都	ns	play.song-B	play.song-B
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+成都	ns	play.song-B	play.song-B
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+把酒	v	play.song-B	play.song-B
+倒	v	play.song-I	play.song-I
+满	a	play.song-I	play.song-I
+打电话	l	play.O	play.O
+给	p	play.O	play.O
+六三	m	play.O	play.O
+888	m	play.O	play.O
+
+haze	eng	play.song-B	play.song-I
+
+播放	v	play.O	play.O
+许巍	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+小城	n	play.song-B	play.song-B
+故事	n	play.song-I	play.song-I
+
+小城	n	play.song-B	play.song-B
+故事	n	play.song-I	play.song-I
+
+大城	ns	play.song-B	play.song-B
+小事	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+空空如也	i	play.song-B	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+刚好	d	play.song-B	play.song-B
+遇见	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+亲爱	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+那	r	play.song-I	play.song-I
+不是	c	play.song-I	play.song-I
+爱情	n	play.song-I	play.song-I
+
+王菲	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+金刚经	nr	play.song-B	play.song-B
+
+王菲	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+金刚经	nr	play.song-B	play.song-B
+
+王菲	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+金刚	nr	play.song-B	play.song-B
+曲	q	play.O	play.song-I
+
+播放	v	play.O	play.O
+
+播放	v	play.O	play.O
+再见	v	play.song-B	play.song-B
+只是	c	play.song-I	play.song-I
+陌生人	n	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+不	d	play.song-B	play.song-B
+
+请来	v	play.O	play.O
+一首	m	play.O	play.O
+不再	d	play.song-B	play.song-B
+犹豫	a	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+来	v	play.O	play.O
+一首	m	play.O	play.O
+小苹果	nr	play.song-B	play.song-B
+
+放	v	play.O	play.O
+云菲菲	nr	play.singer-B	play.singer-B
+唱	v	play.O	play.O
+的	uj	play.O	play.O
+殇	vg	play.song-B	play.song-B
+雪	n	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+云菲菲	nr	play.singer-B	play.singer-B
+唱	v	play.O	play.O
+的	uj	play.O	play.O
+殇	vg	play.song-B	play.song-B
+雪	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+
+播放	v	play.O	play.O
+
+音乐	n	play.O	play.O
+播放	v	play.O	play.O
+
+音乐	n	play.O	play.O
+播放	v	play.O	play.O
+
+好	a	play.song-B	play.song-B
+可惜	v	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+周	nr	play.singer-B	play.singer-B
+深	a	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+我	r	play.song-B	play.song-B
+是	v	play.song-I	play.song-I
+真的	d	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+我	r	play.song-B	play.song-B
+是	v	play.song-I	play.song-I
+真的	d	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+我	r	play.O	play.song-B
+知	v	play.O	play.song-I
+我	r	play.song-B	play.song-I
+只在乎	i	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+独角戏	n	play.song-B	play.song-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+当兵	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+人	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+卓依婷	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+杜十娘	nr	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+卓依婷	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+长相依	nr	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+林忆莲	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+广东	ns	play.song-B	play.song-B
+爱情故事	i	play.song-I	play.song-I
+
+沧海	ns	play.song-B	play.song-B
+一声	m	play.song-I	play.song-I
+笑	v	play.song-I	play.song-I
+
+广东	ns	play.song-B	play.song-B
+爱情故事	i	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+广东	ns	play.song-B	play.song-B
+爱情故事	i	play.song-I	play.song-I
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+小鸭子	n	play.song-B	play.song-B
+
+放	v	play.O	play.O
+小兔子	nr	play.song-B	play.song-B
+乖乖	d	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+个	q	play.O	play.O
+小鸭子	n	play.song-B	play.song-B
+
+请放	v	play.O	play.O
+林俊杰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+请放	v	play.O	play.O
+林俊杰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+放	v	play.O	play.O
+孙露	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+李贤	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+乳腺	n	play.song-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+来	v	play.O	play.O
+一首	m	play.O	play.O
+雕花	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+马鞍	nr	play.song-I	play.song-I
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+来	v	play.O	play.O
+一首	m	play.O	play.O
+来首	v	play.O	play.O
+我	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+歌	n	play.song-B	play.song-B
+在	p	play.song-I	play.song-I
+飞	n	play.song-I	play.song-I
+
+走	v	play.song-B	play.O
+歌曲	n	play.O	play.O
+
+放	v	play.O	play.O
+一首	m	play.O	play.O
+体面	n	play.song-B	play.song-B
+
+dj	eng	play.theme-B	play.theme-B
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刘德华	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+冰雨	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+有	v	play.song-B	play.song-B
+什么	r	play.song-I	play.song-I
+不同	a	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+悟空	n	play.song-B	play.song-B
+传	n	play.song-I	play.song-I
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+请	v	play.O	play.O
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+毛阿敏	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+爱	v	play.song-B	play.song-B
+你	r	play.song-I	play.song-I
+一万年	m	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+挪威	ns	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+森林	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+断点	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+告白	v	play.song-B	play.song-B
+气球	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+悟空	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+疯	v	play.song-B	play.song-B
+了	ul	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+男人	n	play.song-B	play.song-B
+花	v	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+兄弟	n	play.song-B	play.song-B
+干杯	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+歌曲	n	play.O	play.O
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+
+我	r	play.O	play.O
+*	x	play.O	play.O
+听	v	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+
+超	v	play.O	play.song-B
+低音	n	play.O	play.song-I
+dj	eng	play.theme-B	play.theme-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+鸿雁	nr	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+鸿雁	nr	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+鸿雁	nr	play.song-B	play.singer-B
+播放	v	play.O	play.O
+鸿雁	nr	play.song-B	play.song-B
+
+骏马奔驰	vn	play.song-B	play.song-B
+保	v	play.song-I	play.song-I
+边疆	s	play.song-I	play.song-I
+
+骏马奔驰	vn	play.song-B	play.song-B
+保	v	play.song-I	play.song-I
+边疆	s	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+藕断丝连	i	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+香水	ns	play.song-B	play.song-B
+有毒	v	play.song-I	play.song-I
+
+7	m	play.song-B	play.song-B
+月	m	play.song-I	play.song-I
+7	m	play.song-I	play.song-I
+日	m	play.song-I	play.song-I
+晴	v	play.song-I	play.song-I
+
+2002	m	play.song-B	play.song-B
+年	m	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+第一场	m	play.song-I	play.song-I
+雪	n	play.song-I	play.song-I
+
+萨克斯	nr	play.instrument-B	play.singer-B
+
+来	v	play.O	play.O
+一曲	m	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+舞曲	n	play.style-B	play.style-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+音乐	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+我们	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+一样	r	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+星星	nz	play.song-B	play.song-B
+点灯	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+刚好	d	play.song-B	play.song-B
+遇见	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+听	v	play.O	play.O
+mi2	eng	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+结巴	n	play.song-B	play.song-B
+
+的	uj	play.O	play.O
+音乐	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+阿里山	ns	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+姑娘	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+陈小春	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+算你狠	l	play.song-B	play.song-B
+
+白雪	nr	play.singer-B	play.singer-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+阿里山	ns	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+姑娘	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+郑智化	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+游戏人间	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+郑智化	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放歌曲	n	play.O	play.O
+游戏人间	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+我	r	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+楼兰	ns	play.song-I	play.song-I
+云朵	n	play.singer-B	play.song-I
+
+播放	v	play.O	play.O
+张韶涵	nr	play.singer-B	play.singer-B
+啊	y	play.song-B	play.O
+叼	v	play.song-I	play.O
+
+隐形	n	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+翅膀	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+薛之谦	nr	play.singer-B	play.singer-B
+小	a	play.song-B	play.song-B
+幸运	a	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+小星星	nr	play.song-B	play.singer-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+
+给	p	play.O	play.O
+来	v	play.O	play.O
+一首	m	play.O	play.O
+那个	r	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+
+给	p	play.O	play.O
+来	v	play.O	play.O
+首	m	play.O	play.O
+la	eng	play.singer-B	play.song-B
+
+la	eng	play.singer-I	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+取消	v	pause.O	pause.O
+
+想	v	play.O	play.O
+听	v	play.O	play.O
+英雄	ns	play.song-B	play.song-B
+泪	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+英雄	ns	play.song-B	play.song-B
+泪	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+认真	ad	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+雪	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+认真	ad	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+雪	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+薛之谦	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+认真	ad	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+雪	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+许巍	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+逆流	n	play.song-B	play.song-B
+成河	ns	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+逆流	n	play.song-B	play.song-B
+成河	ns	play.song-I	play.song-I
+
+放	v	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+音乐	n	play.O	play.O
+
+听	v	play.O	play.O
+儿歌	n	play.age-B	play.age-B
+
+来	v	play.O	play.O
+点	m	play.O	play.O
+音乐	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+降央卓玛	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+笑脸	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+笑脸	n	play.song-B	play.song-B
+人声	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+谢东	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+切换	v	next.O	next.O
+到	v	next.O	next.O
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+我	r	next.O	play.O
+要	v	next.O	play.O
+听	v	next.O	play.O
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+来	v	play.O	play.O
+一首	m	play.O	play.O
+
+给	p	play.O	play.O
+我	r	play.O	play.O
+来	v	play.O	play.O
+一首	m	play.O	play.O
+小桥流水	ns	play.song-B	play.song-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+尽头	d	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+soler	eng	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+孙楠	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+请	v	play.O	play.O
+搜索	v	play.O	play.O
+徐佳莹	nr	play.singer-B	play.singer-B
+唱的歌	n	play.O	play.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+徐佳莹	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+最美	a	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+光	n	play.song-I	play.song-I
+
+路太远	nr	play.song-B	play.singer-B
+
+路太远	nr	play.song-B	play.singer-B
+
+爱情故事	i	play.song-B	play.song-B
+
+那个	r	play.O	play.O
+播放	v	play.O	play.O
+
+播放	v	play.O	play.O
+齐秦	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+齐秦	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+拆东墙	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+娃娃脸	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+后弦	n	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+傻瓜	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+张学友	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+朋友	n	play.song-B	play.song-B
+
+吻别	v	play.song-B	play.song-B
+
+吻别	v	play.song-B	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+王菲	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+让	v	play.O	play.O
+你	r	play.O	play.O
+放	v	play.O	play.O
+个	q	play.O	play.O
+歌儿	n	play.O	play.O
+你	r	play.O	play.O
+放	v	play.O	play.O
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+匆匆	z	play.song-B	play.song-B
+那年	r	play.song-I	play.song-I
+
+龙拳	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+降央卓玛	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+美丽	ns	play.song-B	play.song-B
+大	a	play.song-I	play.song-I
+草原	n	play.song-I	play.song-I
+
+音乐	n	play.O	play.O
+战歌	n	play.song-B	play.song-B
+
+因为	c	play.O	play.song-B
+战歌	n	play.song-B	play.song-I
+
+音乐	n	play.O	play.O
+赞歌	v	play.song-B	play.song-B
+
+小	a	play.song-B	play.song-B
+可乐	a	play.song-I	play.song-I
+
+小石头	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+d	x	play.O	play.song-B
+
+z	x	play.O	play.O
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+音乐	n	play.O	play.O
+
+播放	v	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+
+陈慧琳	nr	play.singer-B	play.singer-B
+
+香港	ns	play.O	play.song-B
+歌手	n	play.O	play.song-I
+陈慧琳	nr	play.singer-B	play.song-I
+
+陈慧琳	nr	play.singer-B	play.singer-B
+
+你	r	play.song-B	play.song-B
+不	d	play.song-I	play.song-I
+来	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+不	d	play.song-I	play.song-I
+老	a	play.song-I	play.song-I
+
+九月九	t	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+酒	n	play.song-I	play.song-I
+
+不	d	play.song-B	play.song-B
+约	d	play.song-I	play.song-I
+
+我	r	play.song-B	play.song-B
+的	uj	play.song-I	play.song-I
+唇吻	n	play.song-I	play.song-I
+不到	v	play.song-I	play.song-I
+我	r	play.song-I	play.song-I
+爱	v	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+人	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+cvb	eng	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+伤	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+三月	m	play.song-B	play.song-B
+里	f	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+花	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+三月	m	play.song-B	play.song-B
+里	f	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+花	n	play.song-I	play.song-I
+
+权志龙	nr	play.singer-B	play.singer-B
+
+六	m	play.singer-B	play.singer-B
+哲	n	play.singer-I	play.singer-I
+
+六	m	play.singer-B	play.singer-B
+哲	n	play.singer-I	play.singer-I
+
+搜索	v	play.O	play.O
+汪峰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+搜索	v	play.O	play.O
+汪峰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+音乐	n	play.O	play.O
+
+听	v	play.O	play.O
+陈	nr	play.singer-B	play.singer-B
+淑桦	n	play.singer-I	play.singer-I
+
+纯音乐	n	play.theme-B	play.theme-B
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+母亲	n	play.song-B	play.song-B
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+小城	n	play.song-B	play.song-B
+故事	n	play.song-I	play.song-I
+
+唱	v	play.O	play.O
+一首	m	play.O	play.O
+小城	n	play.song-B	play.song-B
+故事	n	play.song-I	play.song-I
+
+梦想	n	play.O	play.O
+星	n	play.O	play.O
+搭档	v	play.O	play.O
+常石磊	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+梦想	n	play.O	play.O
+星	n	play.O	play.O
+搭档	v	play.O	play.O
+常石磊	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+关闭	v	pause.O	pause.O
+音乐	n	pause.O	pause.O
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听	v	play.O	play.O
+唱歌	n	play.O	play.O
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+播	v	play.O	play.O
+一个	m	play.O	play.O
+歌	n	play.O	play.O
+
+张磊	nr	play.singer-B	play.singer-B
+
+播放	v	play.O	play.O
+dj	eng	play.theme-B	play.theme-B
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+慢摇	b	play.song-B	play.song-B
+神曲	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+慢摇	b	play.song-B	play.song-B
+神曲	n	play.song-I	play.song-I
+
+叮当	o	play.O	play.O
+你好	l	play.O	play.O
+请放	v	play.O	play.O
+韩红	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+叮当	o	play.O	play.O
+你好	l	play.O	play.O
+请放	v	play.O	play.O
+的	uj	play.O	play.O
+是	v	play.O	play.song-B
+歌舞剧	n	play.song-B	play.song-I
+
+的士高	n	play.song-B	play.song-B
+舞曲	n	play.style-B	play.song-I
+
+我	r	play.O	play.O
+要	v	play.O	play.O
+听歌	v	play.O	play.O
+
+请	v	play.O	play.O
+播放	v	play.O	play.O
+轻松	a	play.emotion-B	play.singer-B
+的	uj	play.O	play.O
+音乐	n	play.O	play.O
+
+请	v	next.O	next.O
+播放	v	next.O	next.O
+下	f	next.O	next.O
+一首	m	next.O	next.O
+
+你好	l	play.O	play.O
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+冰雨	n	play.song-B	play.song-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+南征北战	nz	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+mc	eng	play.singer-B	play.O
+啊	y	play.singer-I	play.O
+南	f	play.singer-I	play.O
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+216	m	play.song-B	play.song-B
+车载	n	play.song-I	play.song-I
+舞曲	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+216	m	play.song-B	play.song-B
+车载	n	play.song-I	play.song-I
+舞曲	n	play.song-I	play.song-I
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+我	r	play.song-B	play.song-B
+在	p	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+眼里	s	play.song-I	play.song-I
+到底	d	play.song-I	play.song-I
+算	v	play.song-I	play.song-I
+什么	r	play.song-I	play.song-I
+dj	eng	play.theme-B	play.theme-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+我	r	play.song-B	play.song-B
+在	p	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+眼里	s	play.song-I	play.song-I
+到底	d	play.song-I	play.song-I
+算	v	play.song-I	play.song-I
+什么	r	play.song-I	play.song-I
+dj	eng	play.theme-B	play.theme-B
+
+我	r	play.O	play.O
+想	v	play.O	play.O
+听	v	play.O	play.O
+我	r	play.song-B	play.song-B
+在	p	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+眼里	s	play.song-I	play.song-I
+到底	d	play.song-I	play.song-I
+算	v	play.song-I	play.song-I
+什么	r	play.song-I	play.song-I
+dj	eng	play.theme-B	play.theme-B
+
+放	v	play.O	play.O
+张靓颖	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+饿狼	n	play.song-B	play.song-B
+传说	n	play.song-I	play.song-I
+
+帮	v	play.O	play.O
+我	r	play.O	play.O
+在	p	play.O	play.O
+qq	eng	play.O	play.O
+音乐	n	play.O	play.O
+里面	f	play.O	play.O
+播放	v	play.O	play.O
+一首	m	play.O	play.O
+夜曲	n	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+阿宝	nr	play.singer-B	play.singer-B
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+阿宝	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+阿宝	nr	play.singer-B	play.singer-B
+
+换	nz	next.O	next.O
+一首	m	next.O	next.O
+
+播放	v	play.O	play.O
+伍佰	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌曲	n	play.O	play.O
+
+播放	v	play.O	play.O
+音乐	n	play.O	play.O
+
+切换	v	play.O	play.O
+好听	v	play.toplist-B	play.O
+的	uj	play.O	play.O
+音乐	n	play.O	play.O
+
+切换	v	play.O	play.O
+怀旧	v	play.emotion-B	play.O
+音乐	n	play.O	play.O
+
+我	r	play.song-B	play.song-B
+恨	v	play.song-I	play.song-I
+你	r	play.song-I	play.song-I
+
+打开	v	play.O	play.O
+音乐	n	play.O	play.O
+
+音乐	n	play.O	play.O
+远走高飞	i	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+暂	d	play.song-B	play.song-B
+没有	v	play.song-I	play.song-I
+相遇	v	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+缘分	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+暂	d	play.song-B	play.song-B
+没有	v	play.song-I	play.song-I
+相遇	v	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+缘分	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+赞	v	play.song-B	play.song-B
+没有	v	play.song-I	play.song-I
+相遇	v	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+缘分	n	play.song-I	play.song-I
+
+你好	l	play.O	play.O
+播放	v	play.O	play.O
+暂	d	play.song-B	play.song-B
+没有	v	play.song-I	play.song-I
+相遇	v	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+缘分	n	play.song-I	play.song-I
+
+赞	v	play.song-B	play.song-B
+没有	v	play.song-I	play.song-I
+相遇	v	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+缘分	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+赞	v	play.song-B	play.song-B
+没有	v	play.song-I	play.song-I
+相的	d	play.song-I	play.song-I
+缘份	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+在	p	play.song-B	play.song-B
+没有	v	play.song-I	play.song-I
+相遇	v	play.song-I	play.song-I
+的	uj	play.song-I	play.song-I
+缘分	n	play.song-I	play.song-I
+
+来	v	play.O	play.O
+点	m	play.O	play.O
+欢快	a	play.emotion-B	play.emotion-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+点	m	play.O	play.O
+一首	m	play.O	play.O
+我	r	play.O	play.song-B
+想要	v	play.O	play.song-I
+的	uj	play.O	play.song-I
+都	d	play.O	play.song-I
+带走	v	play.O	play.song-I
+
+李强	nrfg	play.singer-B	play.singer-B
+
+来	v	play.O	play.O
+一首	m	play.O	play.O
+闽南	ns	play.language-B	play.song-B
+歌曲	n	play.O	play.O
+
+来	v	play.O	play.O
+首	m	play.O	play.O
+回来	v	play.O	play.O
+首	m	play.O	play.O
+又	d	play.O	play.song-B
+见	v	play.O	play.song-I
+他	r	play.O	play.song-I
+首	m	play.O	play.song-I
+没	v	play.song-B	play.song-I
+时间	n	play.song-I	play.song-I
+
+播放	v	play.O	play.O
+周柏豪	nr	play.singer-B	play.singer-B
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+将	d	play.singer-B	play.singer-B
+敦豪	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+将	d	play.singer-B	play.O
+敦豪	n	play.singer-I	play.O
+
+请	v	play.O	play.O
+你	r	play.O	play.O
+播放	v	play.O	play.O
+将	d	play.singer-B	play.singer-B
+敦豪	n	play.singer-I	play.singer-I
+的	uj	play.O	play.O
+歌	n	play.O	play.O
+
+随便	d	play.O	play.O
+来	v	play.O	play.O
+一首歌	m	play.O	play.O
+
+随便	d	play.O	play.O
+来	v	play.O	play.O
+一首歌	m	play.O	play.O
+
+随便	d	play.O	play.O
+来	v	play.O	play.O
+一首歌	m	play.O	play.O
+
+打开	v	play.O	play.O
+音乐	n	play.O	play.O
+
+可以	c	play.O	play.O
+给	p	play.O	play.O
+我	r	play.O	play.O
+播放	v	play.O	play.O
+黑豹	nr	play.singer-B	play.song-B
+那个	r	play.O	play.song-I
+
+留白	v	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+歌	n	play.O	play.O
+
+播放	v	play.O	play.O
+停电	v	play.song-B	play.song-B
+
+播放	v	play.O	play.O
+体面	n	play.song-B	play.song-B
+
+现在	t	play.song-B	play.song-B
+
