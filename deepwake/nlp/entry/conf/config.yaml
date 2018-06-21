@@ -1,10 +1,7 @@
 domain:
-   corpus:
-     - music: ./corpus/music
-
+   corpus: ./corpus
    _model_:
      train_data: ./corpus/train_data.txt
-
      feature:
        - NSFeature
        - DictFeature
