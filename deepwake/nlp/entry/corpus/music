@@ -1,3 +1,5 @@
+#session_id sentence domain.intent info
+
 117194488	来一首周华健的花心	music.play	来一首<singer>周华健</singer>的<song>花心</song>
 117194488	播放我们都一样	music.play	播放<song>我们都一样</song>
 117194488	播放不一样来一首我们不一样	music.play	播放<song>不一样</song>来一首<song>我们不一样</song>

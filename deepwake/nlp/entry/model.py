@@ -39,6 +39,12 @@ class FeatureAddition(object):
         return vector
 
     def length(self):
+        ''' 特征向量的长度
+
+        Returns
+        -------
+
+        '''
         return self._length
 
     def info(self):
