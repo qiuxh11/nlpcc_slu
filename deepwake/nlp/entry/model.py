@@ -4,7 +4,7 @@ from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
 import thulac
 
-from deepwake.nlp.entry.util import get_absolute_path, CONFIG, load_train_corpus
+from deepwake.nlp.common.utils import get_absolute_path
 from deepwake.nlp.logger.log import Logger
 
 SEG = thulac.thulac(user_dict=get_absolute_path("./dict/thulac.dict"))

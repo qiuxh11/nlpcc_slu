@@ -1,10 +1,21 @@
 domain:
-   corpus: ./corpus
-   _model_:
-     train_data: ./corpus/train_data.txt
-     feature:
-       - NSFeature
-       - DictFeature
+   music: ../../../data/mqy/corpus/music
+
+model:
+   train_data: /data/mqy/train/train_data.txt
+   feature:
+     - DictFeature
+     - SubTitleSuffixFeature
+   processor:
+     - SplitProcessor
+
+predict:
+
+
+suffix:
+
+music_slot_path: ../../../data/qxh/domain_slot/music_domain
+
 
 dict:
    city: ./dict/city.dict

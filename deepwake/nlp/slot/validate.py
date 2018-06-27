@@ -2,7 +2,8 @@ import os
 
 local_dir = os.path.dirname(os.path.realpath(__file__))
 
-class reportResult(object):
+class SlotFillingReport(object):
+
     def __init__(self):
         self.TP = 0
         self.TN = 0
@@ -16,7 +17,8 @@ class reportResult(object):
         self.sentence_accuracy = 0.0
 
 
-class validate(object):
+class Evaluation(object):
+
     @staticmethod
     def write_predict_result(crf_predict_result, error_result_file_path):
         """
@@ -31,7 +33,7 @@ class validate(object):
 
         """
 
-        report_result = reportResult()
+        report_result = SlotFillingReport()
 
         real_tags = []
         predict_tags = []
@@ -44,7 +46,7 @@ class validate(object):
                         writer.write('\n')
                         if len(real_tags) > 0:
                             report_result.total_sentence = report_result.total_sentence + 1
-                            if validate.is_sentence_predict_right(real_tags, predict_tags):
+                            if Evaluation.is_sentence_predict_right(real_tags, predict_tags):
                                 report_result.right_sentence = report_result.right_sentence + 1
                         real_tags = []
                         predict_tags = []
@@ -82,7 +84,7 @@ if __name__ == '__main__':
     #train_report = validate.write_predict_result(train_result, train_result_report)
     #print('train sentence right:%d, total:%d, accuracy:%f' % (train_report.right_sentence, train_report.total_sentence, train_report.sentence_accuracy))
 
-    dev_report = validate.write_predict_result(dev_result, dev_result_report)
+    dev_report = Evaluation.write_predict_result(dev_result, dev_result_report)
     print('dev sentence right:%d, total:%d, accuracy:%f' % (dev_report.right_sentence, dev_report.total_sentence, dev_report.sentence_accuracy))
 
 

@@ -6,7 +6,7 @@ import jieba
 local_dir = os.path.dirname(os.path.realpath(__file__))
 
 
-def get_traing_dev_set(list, training_rate=0.9):
+def get_training_dev_set(list, training_rate=0.9):
     """
 
     Parameters

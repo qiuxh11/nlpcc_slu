@@ -1,5 +1,4 @@
-from deepwake.nlp.entry.constant import TAB
-from deepwake.nlp.entry.util import  WORD_DICT, DICT_FEATURE_INDEX
+from deepwake.nlp.common.constant import TAB
 
 
 class Feature(object):
