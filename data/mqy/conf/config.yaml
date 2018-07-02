@@ -1,13 +1,14 @@
 domain:
-   music: ../../../data/mqy/corpus/music
+   - music:
+       corpus_path: ../../../data/mqy/corpus/music
+       parser: NLPCCQueryParser
 
 model:
-   train_data: /data/mqy/train/train_data.txt
+   train_data: ../../../data/mqy/train/train_data.txt
    feature:
      - DictFeature
-     - SubTitleSuffixFeature
    processor:
-     - SplitProcessor
+     - SegProcessor
 
 predict:
 
@@ -18,16 +19,19 @@ music_slot_path: ../../../data/qxh/domain_slot/music_domain
 
 
 dict:
-   city: ./dict/city.dict
-   verb: ./dict/verb.dict
-   hotel: ./dict/hotel_suffix.dict
-   hotel_brand: ./dict/hotel_brand.dict
-   cabin: ./dict/cabin.dict
-   airport: ./dict/airport.dict
-   price_adj: ./dict/price_adj.dict
-   province: ./dict/province.dict
-   flight: ./dict/flight.dict
-   train: ./dict/train.dict
+   city: ../../../data/mqy/dict/city.dict
+   verb: ../../../data/mqy/dict/verb.dict
+   hotel: ../../../data/mqy/dict/hotel_suffix.dict
+   hotel_brand: ../../../data/mqy/dict/hotel_brand.dict
+   cabin: ../../../data/mqy/dict/cabin.dict
+   airport: ../../../data/mqy/dict/airport.dict
+   price_adj: ../../../data/mqy/dict/price_adj.dict
+   province: ../../../data/mqy/dict/province.dict
+   flight: ../../../data/mqy/dict/flight.dict
+   train: ../../../data/mqy/dict/train.dict
+   navigation: ../../../data/mqy/dict/navigation.dict
+   music: ../../../data/mqy/dict/music.dict
+   phone_call: ../../../data/mqy/dict/phone_call.dict
 
 intention_recognition:
 

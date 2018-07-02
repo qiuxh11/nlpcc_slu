@@ -1,4 +1,5 @@
 from deepwake.nlp.common.constant import TAB
+from deepwake.nlp.common.loader import DICT_FEATURE_INDEX_DICT, WORD_LABEL_DICT
 
 
 class Feature(object):
@@ -63,21 +64,21 @@ class DictFeature(Feature):
         -------
 
         """
-        vector = [0] * len(DICT_FEATURE_INDEX)
+        vector = [0.0] * len(DICT_FEATURE_INDEX_DICT)
         for word in text:
-            if word[0] in WORD_DICT.keys():
-                name = WORD_DICT[word[0]]
-                if name in DICT_FEATURE_INDEX.keys():
-                    vector[DICT_FEATURE_INDEX[name]] += 1.0
+            if word[0] in WORD_LABEL_DICT:
+                for label in WORD_LABEL_DICT[word[0]]:
+                    vector[DICT_FEATURE_INDEX_DICT[label]] += 1.0
+
         return vector
 
     @property
     def length(self):
-        self._length = len(DICT_FEATURE_INDEX)
+        self._length = len(DICT_FEATURE_INDEX_DICT)
         return self._length
 
     def __str__(self):
-        sorted_item = sorted(DICT_FEATURE_INDEX.items(),
+        sorted_item = sorted(DICT_FEATURE_INDEX_DICT.items(),
                              key=lambda d:d[1], reverse=False)
         res = ''
         for item in sorted_item:

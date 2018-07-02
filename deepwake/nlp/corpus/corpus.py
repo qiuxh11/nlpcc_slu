@@ -1,27 +1,30 @@
 from itertools import chain
 from deepwake.nlp.common.utils import read_bulks
-from deepwake.nlp.corpus.query_parser import NLPCCQueryParser
+from deepwake.nlp.corpus.query_parser import NLPCCQueryParser, QueryParser
 from deepwake.nlp.corpus.session import Session
 
 
 class Corpus:
 
-    def __init__(self, path, parser=None):
-        self.path = path
-        self.parser = parser
+    def __init__(self):
         self.sessions = []
 
-    def set_parser(self, parser):
-        self.parser = parser
+    def get_sessions(self, paths, parsers):
+        if isinstance(paths, str):
+            paths = [paths]
 
-    def get_sessions(self):
-        bulks = read_bulks(self.path)
-        bulks.remove(bulks[0])
+        if isinstance(parsers, QueryParser):
+            parsers = [parsers]
 
-        for bulk in bulks:
-            session = Session(bulk)
-            session.parse_queries(self.parser)
-            self.sessions.append(session)
+        for idx, path in enumerate(paths):
+            bulks = read_bulks(path)
+            # bulks.remove(bulks[0])
+            self.parser = parsers[idx]
+
+            for bulk in bulks:
+                session = Session(bulk)
+                session.parse_queries(self.parser)
+                self.sessions.append(session)
 
         return self.sessions
 
@@ -39,17 +42,3 @@ class Corpus:
             res = [query for query in queries if query.intent == intent and query.domain == domain]
         return res
 
-
-
-
-if __name__ == '__main__':
-    corpus = Corpus('../entry/corpus/music')
-    parser = NLPCCQueryParser()
-    corpus.set_parser(parser)
-    sessions = corpus.get_sessions()
-    for s in sessions:
-        print(s)
-
-    res = corpus.get_corpus_of_domain('music', 'play')
-    for r in res:
-        print(r)
