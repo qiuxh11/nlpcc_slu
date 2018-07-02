@@ -5,7 +5,7 @@ import os
 import logging
 from logging import handlers
 
-from deepwake.nlp.entry.util import get_absolute_path
+from deepwake.nlp.common.utils import get_absolute_path
 
 FORMAT = logging.Formatter('%(asctime)s - %(name)s[line:%(lineno)d] - %(levelname)s: %(message)s')
 

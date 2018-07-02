@@ -4,27 +4,34 @@ from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
 import thulac
 
-from deepwake.nlp.common.utils import get_absolute_path
-from deepwake.nlp.logger.log import Logger
+from deepwake.nlp.common.utils import get_absolute_path, load_corpus
+from deepwake.nlp.corpus.session import Query
+from deepwake.nlp.entry.feature import Feature
 
-SEG = thulac.thulac(user_dict=get_absolute_path("./dict/thulac.dict"))
+SEG = thulac.thulac()
 
 
-class FeatureAddition(object):
+class FeatureAddition(Feature):
 
     def __init__(self):
+        super().__init__()
+        # 特征列表.
         self.features = []
+        # 语料预处理器.
+        self.processors = []
+        # 特征总维度.
         self._length = 0
+        # 特征详细信息.
         self._info = []
 
-    def config(self, feature_names):
+    def config(self, feature_names, processor_names):
         """ 根据配置文件配置特征列表.
 
         Returns
         -------
 
         """
-        mod = __import__('deepwake.nlp.entry.feature', fromlist=['feature'])
+        mod = __import__('feature', fromlist=['feature'])
         for feature_name in feature_names:
             class_name = getattr(mod, feature_name)
             feature = class_name()
@@ -32,10 +39,24 @@ class FeatureAddition(object):
             self._info.append(str(feature))
             self.features.append(feature)
 
-    def generate(self, text):
+        mod = __import__('preprocessor', fromlist=['preprocessor'])
+        for processor_name in processor_names:
+            class_name = getattr(mod, processor_name)
+            processor = class_name()
+            self.processors.append(processor)
+
+
+    def active(self, text):
+
         vector = []
+
+        # 预处理.
+        for processor in self.processors:
+            text = processor.process(text)
+        # 激活特征.
         for feature in self.features:
             vector = vector + feature.active(text)
+
         return vector
 
     def length(self):
@@ -59,6 +80,8 @@ class Model:
         self.train_path = None
         self.corpus = None
         self.report = None
+        self.domain_index_dict = {}
+        self.index_domain_dict = {}
 
     def set_model(self, model):
         self._model = model
@@ -66,49 +89,69 @@ class Model:
     def set_feature_addition(self, feature_addition):
         self.feature_addition = feature_addition
 
-    def load_train_corpus(self, path_dict):
-        """ 载入训练语料.
+    def active_features(self, text):
+        return self.feature_addition.active(text)
 
-        Parameters
-        ----------
-        path_dict
+    def predict_big_data(self, corpus_path, predict_path_dict):
+        out_paths = []
+        for i in range(len(self.index_domain_dict)):
+            domain = self.index_domain_dict[i]
+            path = predict_path_dict[domain]
+            file = open(path, 'w')
+            out_paths.append(file)
 
-        Returns
-        -------
+        with open(corpus_path, mode='r') as reader:
+            for line in reader:
+                temp = line.strip()
+                if temp == '':
+                    continue
+                sample = self.active_features(temp)
+                sample = np.array([sample])
+                res = self.predict(sample)
+                if res[0] in self.index_domain_dict:
+                    out_paths[int(res[0])].write(temp + '\n')
 
-        """
-        self.corpus = load_train_corpus(path_dict)
-        return self.corpus
+        for out in out_paths:
+            out.close()
 
-    def generate(self, text):
-        return self.feature_addition.generate(text)
-
-    def create_train_data(self, path, label_dict):
+    def create_train_data(self, corpus,  train_path, domain=True):
         """ 创建训练数据特征集合.
 
         Parameters
         ----------
-        path:
-        label_dict: dict
+        corpus_path_dict:
+        train_path: dict
             类别词典.
 
         Returns
         -------
 
         """
-        self.train_path = get_absolute_path(path)
+        self.train_path = get_absolute_path(train_path)
+        self.corpus = corpus
+        sessions = corpus.sessions
+
         data = []
-        for name, queries in self.corpus.items():
-            for query in queries:
-                text = SEG.cut(query)
-                vector = self.generate(text)
-                if name in label_dict.keys():
-                    vector.append(label_dict[name])
-                    data.append(vector)
+        for session in sessions:
+            temp = []
+            history_vector = [0.0] * (self.feature_addition.length() + 1)
+            for query in session.queries:
+                current_vector = self.active_features(query.sentence)
+                _vector = self._add(history_vector, current_vector)
+
+                if domain:
+                    _vector.append(query.domain_id)
+                else:
+                    _vector.append(query.intent_id)
+                temp.append(_vector)
+                history_vector = _vector
+            for tmp in temp:
+                data.append(tmp)
         arr = np.array(data)
+        print(arr)
         np.savetxt(self.train_path, arr, fmt='%.3f')#, header=self.feature_addition.info())
 
-    def train_and_test(self, label_dict, train_size=0.7):
+    def train_and_test(self, domain_index_dict, train_size=0.6):
         data = np.loadtxt(self.train_path, dtype=float, delimiter=' ')
         x, y = np.split(data, (self.feature_addition.length(),), axis=1)
         x = x[:, :self.feature_addition.length()]
@@ -119,7 +162,7 @@ class Model:
         y_predict = self.predict(x_test)
         y_true = (y_test.reshape(y_test.shape[1], y_test.shape[0]))[0]
 
-        label_names = sorted(label_dict.items(), key=lambda d:d[1])
+        label_names = sorted(domain_index_dict.items(), key=lambda d:d[1])
 
         labels = []
         names = []
@@ -138,54 +181,12 @@ class Model:
     def feature_dim(self):
         return self.feature_addition.length()
 
+    def _add(self, a, b):
+        c = []
+        for idx, d in enumerate(a):
+            if idx == len(a) - 1:
+                break
+            c.append(a[idx] + b[idx])
+        return c
 
-def get_domain(sentence, response=None, register=None):
-    """ 获得对话的域: 火车, 飞机, 酒店, 闲聊等域
-
-    Parameters
-    ----------
-    sentence: str
-        用户对话.
-
-    Returns
-    -------
-        域的类别:TOPIC_DICT = {0: "traffic",
-         1: "hotel",
-         2: "chat",
-         3: "train",
-         4: "flight"}
-    """
-    pass
-
-
-def get_intent(sentence, response, register):
-    """ 获得意图
-
-    Parameters
-    ----------
-    sentence
-    response
-    register
-    manager
-    policy
-
-    Returns
-    -------
-
-    """
-    pass
-
-
-def load_model(path):
-    """
-
-    Parameters
-    ----------
-    path
-
-    Returns
-    -------
-
-    """
-    pass
 

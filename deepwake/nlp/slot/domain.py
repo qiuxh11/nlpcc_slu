@@ -1,6 +1,6 @@
 import jieba
 
-from deepwake.nlp.common.init import CONFIG
+from deepwake.nlp.common.loader import CONFIG
 from deepwake.nlp.common.utils import read_lines
 from deepwake.nlp.corpus.corpus import Corpus
 from deepwake.nlp.corpus.query_parser import NLPCCQueryParser
@@ -19,9 +19,8 @@ class Domain(object):
         self.domain_name = domain_name
 
     def get_data(self, corpus_path, domain_path, error_sentence_path, parser=NLPCC_QUERY_PARSER):
-        corpus = Corpus(corpus_path)
-        corpus.set_parser(parser)
-        corpus.get_sessions()
+        corpus = Corpus()
+        corpus.get_sessions(corpus_path, parser)
         domain_queries = corpus.get_corpus_of_domain(self.domain_name)
 
         domain_file = open(domain_path, 'w')

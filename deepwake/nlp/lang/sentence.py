@@ -8,6 +8,20 @@ class Sentence():
         self.seg = seg
 
     def cut(self, seg=jieba.posseg):
+        """ segmentation.
+
+        Parameters
+        ----------
+        seg: segment.
+
+        Returns
+        -------
+            [(word_0, pos, (start, end)),
+             ....,
+             ....,
+             ....
+            ]
+        """
         self._words = seg.cut(self.sentence)
         self.seg = seg
         words = []

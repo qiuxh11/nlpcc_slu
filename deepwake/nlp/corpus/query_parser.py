@@ -3,6 +3,7 @@ from deepwake.nlp.corpus.session import Query
 
 class QueryParser():
 
+
     def parse(self, query):
         """
 
